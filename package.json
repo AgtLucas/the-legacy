@@ -4,6 +4,7 @@
   "description": "New blog!",
   "main": "index.js",
   "scripts": {
+    "deploy": "jekyll build && grunt deploy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
