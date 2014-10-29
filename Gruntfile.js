@@ -15,6 +15,27 @@ module.exports = function (grunt) {
 
     pkg: grunt.file.readJSON('package.json'),
 
+    // Browserify
+    browserify: {
+      dist: {
+        files: {
+          '_blackbriar/build.js': ['_blackbriar/js/**/*.js']
+        }
+      }
+    },
+
+    // Uglify
+    uglify: {
+
+    },
+
+    watch: {
+      browserify: {
+        files: ['_blackbriar/js/**/*.js'],
+        tasks: ['browserify']
+      }
+    },
+
     buildcontrol: {
       options: {
         dir: '_site',
@@ -29,9 +50,11 @@ module.exports = function (grunt) {
         }
       }
     }
+
   });
 
   grunt.registerTask('deploy', ['buildcontrol']);
+  grunt.registerTask('w', ['watch']);
 
   // grunt.registerTask('default', ['watch']);
 
