@@ -7,7 +7,7 @@ var app = (function (window, document, undefined) {
     },
 
     alerter: function () {
-      alert('WOW');
+      alert('WOW!!!');
     }
 
   };

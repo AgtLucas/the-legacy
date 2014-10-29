@@ -12,6 +12,10 @@ github_username:  agtlucas
 
 exclude: ['node_modules', 'package.json', 'Gruntfile.js']
 
+sass:
+    sass_dir: _sass
+    style: :compressed
+
 include: ['.gitignore']
 
 # Build settings
