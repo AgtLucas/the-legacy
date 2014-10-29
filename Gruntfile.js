@@ -27,12 +27,6 @@ module.exports = function (grunt) {
           remote: 'git@github.com:agtlucas/the-legacy.git',
           branch: 'gh-pages'
         }
-      },
-      local: {
-        options: {
-          remote: '../',
-          branch: 'build'
-        }
       }
     }
   });
