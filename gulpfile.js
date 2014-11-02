@@ -1,0 +1,10 @@
+var gulp = require('gulp')
+  , browserify = require('gulp-browserify')
+  , sass = require('gulp-sass')
+  , deploy = require('gulp-gh-pages')
+  , concat = require('gulp-concat')
+  , uglify = require('gulp-uglify')
+  , autoprefixer = require('gulp-autoprefixer')
+  , minifycss = require('gulp-minify-css')
+  , imagemin = require('gulp-imagemin')
+  , pngquant = require('imagemin-pngquant');
