@@ -17,3 +17,9 @@ gulp.task('browserify', function () {
     .pipe(uglify())
     .pipe(gulp.dest('_site/js'));
 });
+
+// Deploy task
+gulp.task('deploy', function () {
+  gulp.src('_site/**/*')
+    .pipe(deploy());
+});
