@@ -8,3 +8,12 @@ var gulp = require('gulp')
   , minifycss = require('gulp-minify-css')
   , imagemin = require('gulp-imagemin')
   , pngquant = require('imagemin-pngquant');
+
+// Browserify Task
+gulp.task('browserify', function () {
+  gulp.src('js/main.js')
+    .pipe(browserify({transform:'reactify'}))
+    .pipe(concat('main.js'))
+    .pipe(uglify())
+    .pipe(gulp.dest('_site/js'));
+});
