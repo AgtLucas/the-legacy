@@ -28,6 +28,14 @@ gulp.task('sass', function () {
     .pipe(gulp.dest('css'));
 });
 
+// Watch Task
+gulp.task('watch', function () {
+  gulp.watch('_src/**/*.*', ['default']);
+});
+
+// Default Task
+gulp.task('default', ['browserify', 'sass', 'imagemin']);
+
 // Deploy task
 gulp.task('deploy', function () {
   gulp.src('_site/**/*')
