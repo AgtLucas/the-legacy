@@ -28,6 +28,16 @@ gulp.task('sass', function () {
     .pipe(gulp.dest('css'));
 });
 
+// Imagemin
+gulp.task('imagemin', function () {
+  gulp.src('_src/_img/*')
+    .pipe(imagemin({
+      progressive: true,
+      use: [pngquant()]
+    }))
+    .pipe(gulp.dest('img'));
+});
+
 // Watch Task
 gulp.task('watch', function () {
   gulp.watch('_src/**/*.*', ['default']);
