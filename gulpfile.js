@@ -44,7 +44,7 @@ gulp.task('watch', function () {
 });
 
 // Default Task
-gulp.task('default', ['browserify', 'sass', 'imagemin']);
+gulp.task('default', ['browserify', 'sass']);
 
 // Deploy task
 gulp.task('deploy', function () {
