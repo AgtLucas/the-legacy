@@ -16,7 +16,7 @@ sass:
     sass_dir: _sass
     style: :compressed
 
-include: ['.gitignore']
+include: ['.gitignore', 'CNAME']
 
 # Build settings
 markdown: kramdown
