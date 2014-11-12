@@ -8,6 +8,8 @@ url: "http://lucas.ninja" # the base hostname & protocol for your site
 twitter_username: _agtlucas
 github_username:  agtlucas
 
+excerpt_separator: <!-- more -->
+
 exclude: ['node_modules', 'package.json', 'Gruntfile.js', 'src']
 
 sass:
