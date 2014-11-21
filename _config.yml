@@ -10,7 +10,7 @@ github_username:  agtlucas
 
 excerpt_separator: <!-- more -->
 
-exclude: ['node_modules', 'package.json', 'gulpfile.js', 'src', '.DS_Store']
+exclude: ['node_modules', 'package.json', 'gulpfile.js', 'src', '.DS_Store', '.sass-cache']
 
 sass:
     sass_dir: _sass
