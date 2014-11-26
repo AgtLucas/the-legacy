@@ -40,7 +40,7 @@ gulp.task('imagemin', function () {
 
 // Watch Task
 gulp.task('watch', function () {
-  gulp.watch('_src/**/*.*', ['default']);
+  gulp.watch('src/**/*.*', ['default']);
 });
 
 // Default Task
