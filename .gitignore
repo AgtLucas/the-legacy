@@ -1,5 +1,6 @@
 _site/
 *.idea/
+*.c9/
 *.sass-cache/
 *.DS_Store
 
