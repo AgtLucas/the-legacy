@@ -1,4 +1,4 @@
-@import 'neat-helpers';
+@import 'neat/neat-helpers';
 
 $large-desktop: new-breakpoint(min-width 81em min-height 51em 12);
 $desktop-x: new-breakpoint(min-width 50em min-height 1em 12);
