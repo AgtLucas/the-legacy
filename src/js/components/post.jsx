@@ -4,6 +4,9 @@ var Post = React.createClass({
   getInitialState: function () {
 
   },
+  componentDidMount: function () {
+
+  },
   componentsWillMount: function () {
 
   },
