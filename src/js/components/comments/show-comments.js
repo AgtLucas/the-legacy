@@ -1,3 +1,5 @@
+'use strict';
+
 var loadDisqus = require('./load-disqus');
 
 var showComments = function () {
