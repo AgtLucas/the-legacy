@@ -1,5 +1,6 @@
 var gulp = require('gulp')
   , browserify = require('browserify')
+  , transform = require('vinyl-transform')
   , sass = require('gulp-sass')
   , deploy = require('gulp-gh-pages')
   , concat = require('gulp-concat')
