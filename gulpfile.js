@@ -11,11 +11,10 @@ var gulp = require('gulp')
 
 // Browserify Task
 gulp.task('browserify', function () {
-  gulp.src('js/main.js')
-    .pipe(browserify({transform:'reactify'}))
-    .pipe(concat('main.js'))
-    .pipe(uglify())
-    .pipe(gulp.dest('_site/js'));
+  var browserified = transform(function (filename) {
+    var b = browserify(filename);
+    return b.bundle();
+  });
 });
 
 // Sass Task
