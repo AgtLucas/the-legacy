@@ -15,6 +15,11 @@ gulp.task('browserify', function () {
     var b = browserify(filename);
     return b.bundle();
   });
+
+  return gulp.src(['src/js/main.js'])
+    .pipe(browserify)
+    .pipe(uglify())
+    .pipe(gulp.dest('js'));
 });
 
 // Sass Task
