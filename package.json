@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/AgtLucas/the-legacy",
   "devDependencies": {
-    "browserify": "^7.0.0",
-    "gulp": "^3.8.9",
+    "browserify": "^8.0.3",
+    "gulp": "^3.8.10",
     "gulp-changed": "^1.0.0",
     "gulp-concat": "^2.4.1",
     "gulp-gh-pages": "^0.4.0",
