@@ -9,18 +9,19 @@ var gulp = require('gulp')
   , imagemin = require('gulp-imagemin')
   , pngquant = require('imagemin-pngquant');
 
+// TODO: FIX THIS!
 // Browserify Task
-gulp.task('browserify', function () {
-  var browserified = transform(function (filename) {
-    var b = browserify(filename);
-    return b.bundle();
-  });
+// gulp.task('browserify', function () {
+//   var browserified = transform(function (filename) {
+//     var b = browserify(filename);
+//     return b.bundle();
+//   });
 
-  return gulp.src(['src/js/main.js'])
-    .pipe(browserify)
-    .pipe(uglify())
-    .pipe(gulp.dest('js'));
-});
+//   return gulp.src(['src/js/main.js'])
+//     .pipe(browserify)
+//     .pipe(uglify())
+//     .pipe(gulp.dest('js'));
+// });
 
 // Sass Task
 gulp.task('sass', function () {
