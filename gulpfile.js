@@ -6,10 +6,10 @@ var gulp = require('gulp')
   , concat = require('gulp-concat')
   , uglify = require('gulp-uglify')
   , minifycss = require('gulp-minify-css')
+  , neat = require('node-neat')
   , imagemin = require('gulp-imagemin')
   , pngquant = require('imagemin-pngquant');
 
-// TODO: FIX THIS!
 // Browserify Task
 gulp.task('browserify', function () {
   var browserified = transform(function (filename) {
