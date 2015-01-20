@@ -6,7 +6,7 @@ var gulp = require('gulp')
   , concat = require('gulp-concat')
   , uglify = require('gulp-uglify')
   , minifycss = require('gulp-minify-css')
-  , neat = require('node-neat')
+  , neat = require('node-neat').includePaths
   , imagemin = require('gulp-imagemin')
   , pngquant = require('imagemin-pngquant');
 
