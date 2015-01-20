@@ -26,7 +26,10 @@ gulp.task('browserify', function () {
 // Sass Task
 gulp.task('sass', function () {
   gulp.src('src/_sass/main.scss')
-    .pipe(sass({style: 'expanded'}))
+    .pipe(sass({
+      style: 'expanded',
+      includePaths: neat
+    }))
     .pipe(gulp.dest('css'))
     .pipe(minifycss())
     .pipe(gulp.dest('css'));
