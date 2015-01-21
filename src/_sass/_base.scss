@@ -46,4 +46,5 @@ ul {
 
 .wrapper {
   @include outer-container;
+  padding: em(20);
 }
