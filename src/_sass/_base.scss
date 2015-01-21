@@ -38,3 +38,7 @@ body {
   flex: 1 0 auto;
   -webkit-flex: 1 0 auto;
 }
+
+.wrapper {
+  @include outer-container;
+}
