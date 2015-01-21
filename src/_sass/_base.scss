@@ -32,6 +32,11 @@ body {
   @include flex-body;
 }
 
+ul {
+  padding: 0;
+  list-style: none;
+}
+
 .main-content {
   -webkit-box-flex: 1;
   -ms-flex: 1 0 auto;
