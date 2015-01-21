@@ -29,4 +29,5 @@ html {
 body {
   background: $aww;
   color: $ablack;
+  @include flex-body;
 }
