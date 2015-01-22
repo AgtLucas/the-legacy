@@ -8,7 +8,11 @@ description: Posts and more posts, this is my Blog
 ---
 
 <section class="blog-container">
+  {% for post in site.posts %}
   <article class="post-container post-container__preview">
-
+    <header class="post-header">
+      <span class="post-date">{{ post.date | date_to_string }}</span>
+    </header>
   </article>
+  {% endfor %}
 </section>
