@@ -12,6 +12,7 @@ description: Posts and more posts, this is my Blog
   <article class="post-container post-container__preview">
     <header class="post-header">
       <span class="post-date">{{ post.date | date_to_string }}</span>
+      <a href="{{ post.url }}" class="post-title">{{ post.title }}</a>
     </header>
   </article>
   {% endfor %}
