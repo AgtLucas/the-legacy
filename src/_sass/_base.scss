@@ -27,9 +27,17 @@ html {
 }
 
 body {
+  @include flex-body;
+}
+
+.default {
+  background: $aww;
+  color: $ablack;
+}
+
+.dark {
   background: $ablack;
   color: $aww;
-  @include flex-body;
 }
 
 ul {
@@ -51,4 +59,5 @@ ul {
 
 .hello-world__text {
   font-size: rem(40);
+  font-weight: bold;
 }
