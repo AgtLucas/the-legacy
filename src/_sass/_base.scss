@@ -40,6 +40,13 @@ body {
   color: $aww;
 }
 
+.default,
+.dark {
+  a {
+    color: inherit;
+  }
+}
+
 ul {
   padding: 0;
   list-style: none;
