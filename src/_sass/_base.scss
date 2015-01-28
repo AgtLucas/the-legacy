@@ -33,11 +33,21 @@ body {
 .default {
   background: $aww;
   color: $ablack;
+  a {
+    &:hover {
+      color: $ablue;
+    }
+  }
 }
 
 .dark {
   background: $ablack;
   color: $aww;
+  a {
+    &:hover {
+      color: $ared;
+    }
+  }
 }
 
 a {
