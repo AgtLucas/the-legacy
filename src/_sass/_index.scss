@@ -20,8 +20,19 @@
 }
 
 .hello-world__item {
-  display: inline-block;
-  margin: em(10) em(15);
+
+  @include media($mobile) {
+    margin: em(20) 0;
+  }
+
+  @include media($tablet) {
+    margin: em(20) 0;
+  }
+
+  @include media($desktop-x) {
+    display: inline-block;
+    margin: em(10) em(15);
+  }
 }
 
 .hello-world__link {
