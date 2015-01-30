@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Flexbox"
+date: 2014-01-11 20:30:00
+categories: blog
+description: Flexible Box Layout Model
+---
+
+Today I was thinking about CSS box model.
+
+The CSS Flexible Box Layout Model is a <a href="http://www.w3.org/TR/css3-flexbox/" target="_blank">W3C Candidate Recommendation</a>, in other words, is a stable Working Draft proposed to the community to gather implementation experience.
+
+> The specification describes a CSS box model optimized for user interface design. In the flex layout model, the children of a flex container can be laid out in any direction, and can "flex" their sizes, either growing to fill unused space or shrinking to avoid overflowing the parent. Both horizontal and vertical alignment of the children can be easily manipulated. Nesting of these boxes (horizontal inside vertical, or vertical inside horizontal) can be used to build layouts in two dimensions.
+
+### Support
+
+The always useful <a href="http://beta.caniuse.com" target="_blank">Can I Use</a>, say:
+
+<a href="http://caniuse.com/#search=flexbox" target="_blank"><img src="/img/caniuse-flexbox.jpg" alt="Can I Use Flexbox?"></a>
+
+As you can see, actual support for Flexbox isn't all bad, is fair enough.
+
+In other post I'll try to explain how can we use Flexbox.
+
+Cya.

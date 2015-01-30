@@ -1,9 +1,0 @@
----
-layout: post
-title: "Test post 2"
-date: 2015-01-21 10:00
-categories: blog
-description: Foo
----
-
-This is my test!
