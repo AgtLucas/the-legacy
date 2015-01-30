@@ -12,12 +12,31 @@
   display: block;
   margin: auto;
   border-radius: 100%;
+
+  @include media($mobile) {
+    width: em(100);
+  }
 }
 
 .hello-world__text {
-  font-size: rem(30);
-  font-weight: bold;
-  padding-bottom: em(15);
+
+  @include media($mobile) {
+    font-size: rem(22);
+    padding-bottom: em(10);
+  }
+
+  @include media($tablet) {
+    font-size: rem(25);
+    font-weight: bold;
+    padding-bottom: em(15);
+  }
+
+  @include media($desktop-x) {
+    font-size: rem(30);
+    font-weight: bold;
+    padding-bottom: em(15);
+  }
+
 }
 
 .dark {
@@ -36,7 +55,7 @@
   font-size: rem(20);
 
   @include media($mobile) {
-    margin: em(20) 0;
+    margin: em(10) 0;
   }
 
   @include media($tablet) {
