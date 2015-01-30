@@ -1,6 +1,7 @@
 // Index
 
 .hello-world {
+  font-family: Georgia, sans-serif;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -17,9 +18,23 @@
 .hello-world__text {
   font-size: rem(30);
   font-weight: bold;
+  padding-bottom: em(15);
+}
+
+.dark {
+  .hello-world__text {
+    border-bottom: 2px dashed $ared;
+  }
+}
+
+.default {
+  .hello-world__text {
+    border-bottom: 2px dashed $ablue;
+  }
 }
 
 .hello-world__item {
+  font-size: rem(20);
 
   @include media($mobile) {
     margin: em(20) 0;
