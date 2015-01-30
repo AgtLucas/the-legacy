@@ -14,8 +14,10 @@ description: Posts and more posts, this is my Blog
       <header class="post-header">
         <span class="post-date">{{ post.date | date_to_string }}</span>
         <a href="{{ post.url }}" class="post-title">{{ post.title }}</a>
+        <p>{{ post.description }}</p>
       </header>
     </article>
     {% endfor %}
+    {% include paginator.html %}
   </div>
 </section>
