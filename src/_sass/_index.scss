@@ -7,6 +7,10 @@
   @include transform(translate(-50%, -50%));
 }
 
+.lucas {
+  border-radius: 100%;
+}
+
 .hello-world__text {
   font-size: rem(30);
   font-weight: bold;
