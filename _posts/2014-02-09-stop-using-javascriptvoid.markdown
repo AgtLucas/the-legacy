@@ -6,6 +6,7 @@ categories: blog
 description: It's 2014 already, let's move Web forward!
 ---
 
+<div class="wrapper" markdown="1">
 It's 2014 already, and people still using `<a href="javascript:void(0)"></a>` or `<a href="javascript:"></a>` for modern browsers.
 
 The problem is, that works, I think is for that, that people still using it, but actually, this is a bad thing, doing something like that, you're putting script in a wrong place.
@@ -16,3 +17,4 @@ As Pascal Hartig said on Twitter:
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 It's 2014 already, let's move Web forward!
+</div>
