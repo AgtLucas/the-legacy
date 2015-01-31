@@ -8,9 +8,11 @@ description: From Ruby to Node.js, moving to Ghost!
 
 <div class="wrapper" markdown="1">
 I'd been planning this for a while, I guess since the <a href="http://ghost.org" target="_blank">Ghost</a> launch and now I'm sure, I'll move this entire blog to Ghost Platform.
+</div>
 
 <img src="/img/Ghost-Logo-Dark.jpg" alt="Ghost Logo Dark">
 
+<div class="wrapper" markdown="1">
 ### Why?
 
 Well, first of all, I love Jekyll <3 (I know some people that will make joke about this <3 but I don't care!), it's simple, easy to use, I could make a entire post with all the Jekyll's good things! Nothing to complain about it!
