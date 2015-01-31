@@ -13,7 +13,10 @@
 
     {% include footer.html %}
 
+    {% if page.url != '/blog/index.html' %}
     <script src="{{ "/js/main.js" | prepend: site.baseurl }}"></script>
+    {% endif %}
+
   </body>
 
 </html>
