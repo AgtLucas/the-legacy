@@ -6,9 +6,11 @@ categories: blog
 description: Avoid this weird stuff
 ---
 
+<div class="wrapper" markdown="1">
 Maybe, if you use <a href="http://necolas.github.io/normalize.css/" target="_blank">Normalize</a> you never realised but, on IE 10 +, there's a weird behaviour on anchor tags.
 
 When you click on a link/anchor tag without any background, IE 10 add a grey background, it's weird but it's easy to solve:
+</div>
 
 {% highlight css %}
 a:active {
@@ -16,4 +18,6 @@ a:active {
 }
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 And you're done. :)
+</div>

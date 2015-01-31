@@ -6,9 +6,11 @@ categories: blog
 description: It's been a long time
 ---
 
+<div class="wrapper" markdown="1">
 I'm back. Just for post some updates.
 
 * Running two massive projects simultaneously has been crazy!
 * <a href="http://agtlucas.com/blog/2014/02/26/ideas.html" target="_blank">This one</a>, are happening now, we are putting our ideas out of the paper!
 
 Anyway, I'm backing to work, cya!
+</div>
