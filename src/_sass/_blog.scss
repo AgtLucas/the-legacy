@@ -38,3 +38,18 @@
   display: block;
   margin: em(25) 0 0 0;
 }
+
+.post-content {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  ul,
+  p,
+  blockquote {
+    @include outer-container;
+    padding: 0 em(20);
+  }
+}
