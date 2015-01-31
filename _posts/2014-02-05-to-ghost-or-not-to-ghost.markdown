@@ -6,6 +6,7 @@ categories: blog
 description: Hard choice
 ---
 
+<div class="wrapper" markdown="1">
 I reached a point that is very hard to handle all my "everyday" posts here in Jekyll, so, change to another platform like Ghost, would be ideal. Sort of.
 
 The problem is, I'm a web performance aficionado, and I'm afraid that I can't achieve the same speed on Ghost. Ok, I have to try in production to confirm that, but for now I'm concerned about this.
@@ -13,3 +14,4 @@ The problem is, I'm a web performance aficionado, and I'm afraid that I can't ac
 I'll continue my journey, and soon I'll post the final result here.
 
 Cya!
+</div>
