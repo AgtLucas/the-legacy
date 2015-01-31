@@ -6,6 +6,7 @@ categories: blog
 description: The importance to break in pieces your code
 ---
 
+<div class="wrapper" markdown="1">
 A little time ago, the Front-End Development World was a mess! It was impossible to break your code in reusable solutions. Ok, there was some solutions, but in the performance point of view, it was horrible, because you'd to add another file and another browser requisition, another file and another browser requisition and so on.
 
 Fortunately, this changed! Now, we can use CSS pre-processor to pre-compile our partial files into one CSS file. We can use RequireJS or Browserify to break our js files in reusable modules. We can use Grunt or Gulp to automate our tasks. This is so awesome!
@@ -17,3 +18,4 @@ Some people say that it's not a big deal, because to break you've to mount every
 ### So what?
 
 I'm quite busy until march or april, but as soon as possible, I wanna make some posts to explain how to get start with RequireJS. Stay tuned!
+</div>
