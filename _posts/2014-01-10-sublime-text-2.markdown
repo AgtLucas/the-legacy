@@ -6,6 +6,7 @@ categories: blog
 description: Tips for Sublime Text 2 Environment
 ---
 
+<div class="wrapper" markdown="1">
 Hello,
 
 As I already "said" here before, Sublime Text 2 is my favorite code/text editor, and the main reason for that is your flexibility.
@@ -28,6 +29,7 @@ Here a list with some of them:
 ### Sublime Settings
 
 And here there are my preferences:
+</div>
 
 {% highlight json %}
 
@@ -54,4 +56,6 @@ And here there are my preferences:
 
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 That's all!
+</div>
