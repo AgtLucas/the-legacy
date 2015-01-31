@@ -7,7 +7,7 @@ description: How to deal of bad render of web fonts on Chrome Windows version
 ---
 
 <div class="wrapper" markdown="1">
-One of the most notable difference in web fonts is when you open your site with that beautiful font on Chrome Windows version. Is really, really ugly and bad renderezid, in fact, on Windows 8 it's not too bad!
+One of the most notable difference in web fonts is when you open your site with that beautiful font on Chrome Windows version. Is really, really ugly and bad renderized, in fact, on Windows 8 it's not too bad!
 
 You can fix that using a lot of workarounds!
 
