@@ -22,33 +22,22 @@
 
   @include media($mobile) {
     font-size: rem(22);
-    padding-bottom: em(10);
   }
 
   @include media($tablet) {
     font-size: rem(25);
     font-weight: bold;
-    padding-bottom: em(15);
   }
 
   @include media($desktop-x) {
     font-size: rem(30);
     font-weight: bold;
-    padding-bottom: em(15);
   }
 
 }
 
-.dark {
-  .hello-world__text {
-    border-bottom: 2px dashed $ared;
-  }
-}
-
-.default {
-  .hello-world__text {
-    border-bottom: 2px dashed $ablue;
-  }
+.hello-world__symbol {
+  font-size: rem(20);
 }
 
 .hello-world__list {
