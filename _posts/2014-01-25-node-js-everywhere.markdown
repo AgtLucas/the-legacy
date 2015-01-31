@@ -6,10 +6,13 @@ categories: blog
 description: We're living a revolution, right now! The name of this revolution is Node.js
 ---
 
+<div class="wrapper" markdown="1">
 We're living a revolution, right now! The name of this revolution is Node.js.
+</div>
 
 <img src="/img/nodejs.jpg" alt="Node.js">
 
+<div class="wrapper" markdown="1">
 I'm not too young, and not too old to had witnessed the browsers war in 1990s, but I'm fortunate to watching the Node.js revolution.
 
 In fact, this is something a little creepier, how Node.js has growing and evolving since their initial release in 2009. Day after day, more and more companies have been adopting Node as your main server side technology.
@@ -21,3 +24,4 @@ Yahoo announced that in <a href="http://yahooeng.tumblr.com/nodeweekly" target="
 And many, many other companies are using Node.js right now. This is so cool, one language to rule them all, on the server and client side!
 
 2014 will be Node.js year, so, get ready and Happy Node!
+</div>
