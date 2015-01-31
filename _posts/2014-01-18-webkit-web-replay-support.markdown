@@ -9,13 +9,11 @@ description: WebKit Replay Support video
 <div class="wrapper" markdown="1">
 Later this week, <a href="https://twitter.com/brrian" target="_blank">Brian Burg</a> announced through <a href="https://lists.webkit.org/mailman/listinfo/webkit-dev" target="_blank">webkit-dev list</a>, web replay support on WebKit:
 
-<blockquote>
-  “Hello all,
 
-  I’m excited to announce that I’ve begun work on upstreaming web replay support into WebKit. Web replay functionality allows developers to debug their web applications by exactly recording interactions with a web program, and then replaying the resulting execution at will. A prototype implementation has integration with the Web Inspector, and supports many important web features.
-
+>“Hello all, I’m excited to announce that I’ve begun work on upstreaming web replay support into WebKit. Web replay functionality allows developers to debug their web applications by exactly recording interactions with a web program, and then replaying the resulting execution at will. A prototype implementation has integration with the Web Inspector, and supports many important web features.
+<br />
   Most replay-related code will be behind the ENABLE(WEB_REPLAY) flag. It will be off by default until folks feel that the feature is ready for feedback through nightly builds.”
-</blockquote>
+
 
 Here's a quick video explaining a bit of this promising feature:
 
