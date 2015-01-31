@@ -6,6 +6,7 @@ categories: blog
 description: Resources to learn Flexbox
 ---
 
+<div class="wrapper" markdown="1">
 So, today I would like to write a little bit more about Flexbox, but I can't. I'm not going to go into details but I have some changes to do!
 
 I hope come back ASAP!
@@ -18,3 +19,4 @@ I hope come back ASAP!
 * <a href="http://philipwalton.github.io/solved-by-flexbox/" target="_blank">Solved by Flexbox</a>
 
 Cya!
+</div>
