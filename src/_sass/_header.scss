@@ -17,8 +17,11 @@
   @include media($desktop-x) {
     position: fixed;
     left: 0;
+    z-index: 2;
+    display: block;
   }
 }
+
 
 .dark {
   .ninja {
