@@ -6,11 +6,13 @@ categories: blog
 description: How to deal of bad render of web fonts on Chrome Windows version
 ---
 
+<div class="wrapper" markdown="1">
 One of the most notable difference in web fonts is when you open your site with that beautiful font on Chrome Windows version. Is really, really ugly and bad renderezid, in fact, on Windows 8 it's not too bad!
 
 You can fix that using a lot of workarounds!
 
 You can set `-webkit-text-stroke` as an alternative to [g]old `text-shadow`, or, you can do something like that:
+</div>
 
 {% highlight css %}
 /* Your @font-face */
@@ -25,8 +27,10 @@ You can set `-webkit-text-stroke` as an alternative to [g]old `text-shadow`, or,
 }
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 This is not meant that will solve your problem, it depends of your case and web font, but, can solve!
 
 ### Further Reading:
 
 * <a href="http://www.fontspring.com/blog/smoother-rendering-in-chrome-update" target="_blank">Smoother Rendering in Chrome</a>
+</div>
