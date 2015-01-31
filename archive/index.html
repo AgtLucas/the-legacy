@@ -1,16 +1,15 @@
 ---
 layout: default
-title: Blog - Articles, ideas, thoughts...
-class: blog
+title: Archive - Articles, ideas, thoughts...
+class: archive
 skin: default
-nav: true
 description: Posts and more posts, this is my Blog
 ---
 
 <section class="blog-container">
   <div class="wrapper">
-    {% for post in paginator.posts %}
-    <article class="post-container post-container__preview">
+    {% for post in site.posts %}
+    <article class="archive-container post-container__preview">
       <header class="post-header">
         <a href="{{ post.url }}" class="post-title post-title__link" title="{{ post.title }}">{{ post.title }}</a>
         <span class="post-date">{{ post.date | date_to_string }}</span>
@@ -19,6 +18,5 @@ description: Posts and more posts, this is my Blog
       <span class="post-divider__fire">☲</span>
     </article>
     {% endfor %}
-    <a class="view-archive" href="/archive" title="View Archive">View Archive</a>
   </div>
 </section>
