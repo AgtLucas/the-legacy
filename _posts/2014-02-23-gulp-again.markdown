@@ -6,6 +6,7 @@ categories: blog
 description: A new look over Gulp
 ---
 
+<div class="wrapper" markdown="1">
 Thanks for some people that pointed out my mistakes in my <a href="http://agtlucas.com/blog/2014/01/04/gulp.html" target="_blank">last post about Gulp</a>, I've decided to take a new look over Gulp and so I did it.
 
 The Gulp itself had some changes since the last time that I had played with it, but nothing very different.
@@ -13,6 +14,7 @@ The Gulp itself had some changes since the last time that I had played with it, 
 Now I get the point, we must chain the tasks to make them work better, AKA, one after another and so on.
 
 #### Sample:
+</div>
 
 {% highlight js %}
 var gulp = require('gulp');
@@ -62,6 +64,7 @@ gulp.task('default', ['watch'], function () {
 });
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 Is simpler than Grunt in my opinion, and it's clearly fast.
 
 ### Further Reading:
@@ -71,3 +74,4 @@ Is simpler than Grunt in my opinion, and it's clearly fast.
 * <a href="http://markgoodyear.com/2014/01/getting-started-with-gulp/" target="_blank">Getting started with Gulp</a>
 
 Thanks <a href="https://github.com/gummesson" target="_blank">Ellen Gummesson</a> and <a href="https://github.com/weblancaster" target="_blank">Michael Lancaster</a>, for the tips and help!
+</div>
