@@ -6,6 +6,7 @@ categories: blog
 description: Trying Gulp
 ---
 
+<div class="wrapper" markdown="1">
 In the last week of 2013, on my Twitter feed (or it was on Google Plus? Doesn't matter), I saw a link about something called Gulp. I opened up <a href="http://travismaynard.com/writing/no-need-to-grunt-take-a-gulp-of-fresh-air" target="_blank">that link</a>, scrolled the page like a ninja and didn't understand anything, of course, because I didn't read the article...
 
 Gulp is a Javascript task runner/streaming build system created by <a href="http://wearefractal.com" target="_blank">Fractal</a>. Gulp uses the concept about <a href="https://github.com/substack/stream-handbook" target="_blank">Streams</a>.
@@ -20,6 +21,7 @@ So, Today I've started to play with <a href="http://gulpjs.com" target="_blank">
 
 **Simplicity**:
 Gulp is code over configuration, you don't need to care much about how to configure your environment, in fact, you basically need to know 5 functions:
+</div>
 
 {% highlight javascript %}
 
@@ -73,6 +75,7 @@ gulp.task('default', function() {
 
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 Pretty simple, I really liked it.
 
 ## What I dislike
@@ -85,3 +88,4 @@ As far as I understood, every task runs in parallel, in other words, you can't h
 To finish up, I think Gulp is a great tool, already have more than <a href="http://gratimax.github.io/search-gulp-plugins/" target="_blank">100 plugins</a> and this number will surely grows. For now, I'll still using <a href="http://gruntjs.com/" target="_blank">Grunt</a> as my task runner of choice, but, I'll keep my eyes open on Gulp, because is very good to know that you have other choices!
 
 That's all folks!
+</div>
