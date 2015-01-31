@@ -6,6 +6,8 @@ categories: blog
 description: 23 years
 ---
 
+<div class="wrapper" markdown="1">
 Yeah, today it's my birthday and despite the fact that I don't care to much about birthdays, gifts and parties, I just wanna say thanks to everybody!
 
 Thank you to my family, to my friends and everybody who teach me all the things that I know!
+<div>
