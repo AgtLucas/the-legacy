@@ -1,5 +1,36 @@
 // Footer
-.site-copyright {
+.site-footer {
+  padding-top: em(30);
+  margin-top: em(30);
+}
+
+.site-footer__copyright {
   display: block;
   text-align: center;
+}
+
+.site-footer__list {
+  text-align: center;
+  margin: em(40) 0;
+}
+
+.site-footer__item {
+  font-size: rem(20);
+
+  @include media($mobile) {
+    margin: em(10) 0;
+  }
+
+  @include media($tablet) {
+    margin: em(20) 0;
+  }
+
+  @include media($desktop-x) {
+    display: inline-block;
+    margin: em(10) em(15);
+  }
+}
+
+.site-footer__link {
+  text-decoration: none;
 }
