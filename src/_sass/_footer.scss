@@ -2,6 +2,9 @@
 .site-footer {
   padding-top: em(30);
   margin-top: em(30);
+  .wrapper {
+    border-top: 1px solid #f3f3f3;
+  }
 }
 
 .site-footer__copyright {
