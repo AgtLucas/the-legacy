@@ -6,6 +6,7 @@ categories: blog
 description: My tools, my setup!
 ---
 
+<div class="wrapper" markdown="1">
 I love computers. And Hardware computers.
 
 A few years ago, I was a Windows user/PC Gamer/Almost Overclocker. I used to use a <a href="http://ark.intel.com/products/42915/Intel-Core-i5-750-Processor-8M-Cache-2_66-GHz" target="_blank">i5-750 @2.66GHz</a> overclocked to 4.0GHz. Crazy stuff.
@@ -15,9 +16,11 @@ But since I joined to Apple side of the force, I've learned that Hardware isn't 
 I'm not a Windows user/PC Gamer/Almost Overclocker anymore. I'm trying to go back to this side, only for fun, but it's not a easy way, and doesn't matter now.
 
 ### My Setup
+</div>
 
 <img src="/img/mac.jpg" alt="MacBook Pro">
 
+<div class="wrapper" markdown="1">
 Now, I own:
 
 * MacBook Pro 13-inch 2011 - <a href="http://valid.canardpc.com/cache/screenshot/dx209e.png" target="_blank">i5-2435M @2.40GHz</a>, 8GB DDR3 1330MHz, 500GB (planning a upgrade to SSD)
@@ -30,3 +33,4 @@ Now, I own:
 That's my setup.
 
 :)
+</div>
