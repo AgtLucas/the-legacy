@@ -6,6 +6,7 @@ categories: blog
 description: About posting a post everyday
 ---
 
+<div class="wrapper" markdown="1">
 Review about this year so far:
 
 ### A post per day is hard!
@@ -17,3 +18,4 @@ It's very hard, but in the other hand, seems like my ideas and creativity are fl
 At least, using the <a href="https://github.com/robwierzbowski/generator-jekyllrb" target="_blank">Yeoman Jekyll Generator.</a> I really love this generator, but there's some stuff that make me sad about it. e.g. the deploy process that "regenerate" all your pages. I'm still not sure, but I think sooner or later I'll really migrate to Ghost.
 
 Anyway, this year has been a great year!
+</div>
