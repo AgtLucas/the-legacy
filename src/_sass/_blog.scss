@@ -5,6 +5,26 @@
   text-align: center;
 }
 
+.view-archives {
+  font-style: italic;
+  margin-top: em(70);
+
+  @include media($mobile) {
+    display: block;
+    text-align: center;
+  }
+
+  @include media($tablet) {
+    display: block;
+    text-align: center;
+  }
+
+  @include media($desktop) {
+    display: inline-block;
+    margin-left: em(65);
+  }
+}
+
 .post-container {
   padding: em(25) 0;
 
