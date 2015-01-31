@@ -6,6 +6,8 @@ categories: blog
 description: Isolated
 ---
 
+<div class="wrapper" markdown="1">
 Short post today, because I am isolated, without internet connection and my mobile network is so slow to do a longer post...
 
 Hope everything back to normality ASAP!
+</div>
