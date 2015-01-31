@@ -1,4 +1,4 @@
-# _site
+_site
 *.idea/
 *.c9/
 *.sass-cache/

@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas da Silva</title>
+    <description>Web Developer, accessibility and #webperf addict!
+</description>
+    <link>http://lucas.ninja/</link>
+    <atom:link href="http://lucas.ninja/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 31 Jan 2015 19:42:39 -0200</pubDate>
+    <lastBuildDate>Sat, 31 Jan 2015 19:42:39 -0200</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>2014</title>
+        <description>&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;Hello folks! What an interesting year, isn’t it?&lt;/p&gt;
+
+  &lt;p&gt;Here I’m to write a little review about my year. Let’s getting started.&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;h3 id=&quot;january&quot;&gt;January&lt;/h3&gt;
+  &lt;/blockquote&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Update my blog;&lt;/li&gt;
+    &lt;li&gt;Posted some stuff here, everyday;&lt;/li&gt;
+    &lt;li&gt;Aborted some projects;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;blockquote&gt;
+    &lt;h3 id=&quot;february&quot;&gt;February&lt;/h3&gt;
+  &lt;/blockquote&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;I’ve started to play with &lt;a href=&quot;http://ghost.org&quot;&gt;Ghost&lt;/a&gt;;&lt;/li&gt;
+    &lt;li&gt;My job started to drive me nuts;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;blockquote&gt;
+    &lt;h3 id=&quot;march&quot;&gt;March&lt;/h3&gt;
+  &lt;/blockquote&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Node, Node, Node;&lt;/li&gt;
+    &lt;li&gt;Failed to post everyday;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;blockquote&gt;
+    &lt;h3 id=&quot;april&quot;&gt;April&lt;/h3&gt;
+  &lt;/blockquote&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;I decided to quit my job;&lt;/li&gt;
+    &lt;li&gt;New ideas;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;blockquote&gt;
+    &lt;h3 id=&quot;may&quot;&gt;May&lt;/h3&gt;
+  &lt;/blockquote&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;http://agtlucas.com/blog/2014/05/22/farewell.html&quot;&gt;I quit my job&lt;/a&gt;;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://www.awlka.com/&quot;&gt;I’ve started my own business&lt;/a&gt;;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://developers.google.com/groups/chapter/114767068998939804773/&quot;&gt;GDG Jaraguá do Sul&lt;/a&gt;;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://medium.com/@agtlucas/my-first-talk-24520f63d662&quot;&gt;First talk&lt;/a&gt;;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;blockquote&gt;
+    &lt;h3 id=&quot;june&quot;&gt;June&lt;/h3&gt;
+  &lt;/blockquote&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://saveliv.es&quot;&gt;SaveLives&lt;/a&gt;;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;blockquote&gt;
+    &lt;h3 id=&quot;july&quot;&gt;July&lt;/h3&gt;
+  &lt;/blockquote&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Rails, Rails, Rails;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;blockquote&gt;
+    &lt;h3 id=&quot;august&quot;&gt;August&lt;/h3&gt;
+  &lt;/blockquote&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;DevFest Sul;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;blockquote&gt;
+    &lt;h3 id=&quot;september&quot;&gt;September&lt;/h3&gt;
+  &lt;/blockquote&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Project Ghost;&lt;/li&gt;
+    &lt;li&gt;Project Sandstorm;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;blockquote&gt;
+    &lt;h3 id=&quot;october&quot;&gt;October&lt;/h3&gt;
+  &lt;/blockquote&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Nothing special, I guess;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;blockquote&gt;
+    &lt;h3 id=&quot;november&quot;&gt;November&lt;/h3&gt;
+  &lt;/blockquote&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Google Community Summit;&lt;/li&gt;
+    &lt;li&gt;DeveFest SP;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;blockquote&gt;
+    &lt;h3 id=&quot;december&quot;&gt;December&lt;/h3&gt;
+  &lt;/blockquote&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;A11Y Rocks;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;More to come… 2015!&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;Happy New Year, everyone!&lt;/p&gt;
+  &lt;/blockquote&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 31 Dec 2014 06:00:00 -0200</pubDate>
+        <link>http://lucas.ninja/blog/2014/12/31/two-thousand-and-fourteen.html</link>
+        <guid isPermaLink="true">http://lucas.ninja/blog/2014/12/31/two-thousand-and-fourteen.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>How to use RequireJS with Rails</title>
+        <description>&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;Hello there,&lt;/p&gt;
+
+  &lt;p&gt;Well, it’s september and I didn’t post nothing since July. :/ Let’s do this!&lt;/p&gt;
+
+  &lt;h2 id=&quot;requirejs--rails&quot;&gt;RequireJS + Rails&lt;/h2&gt;
+
+  &lt;p&gt;So, a few days ago I was playing with a Rails project and I started to think how to implement &lt;a href=&quot;http://requirejs.org/&quot; target=&quot;_blank&quot;&gt;RequireJS&lt;/a&gt; with Rails. For those who don’t know what the heck it’s RequireJS, here’s a little overview from his website:&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node. Using a modular script loader like RequireJS will improve the speed and quality of your code.&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;h2 id=&quot;the-requirejs-rails-gem&quot;&gt;The requirejs-rails Gem&lt;/h2&gt;
+
+  &lt;p&gt;Fortunately, there’s a Gem that makes ease to implement RequireJS in a Rails project, check out &lt;a href=&quot;https://github.com/jwhitley/requirejs-rails&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;h2 id=&quot;using-requirejs-rails-gem&quot;&gt;Using requirejs-rails Gem&lt;/h2&gt;
+
+  &lt;p&gt;You’ll need to install the Gem, so add it in your Gemfile:&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;gem&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;requirejs-rails&amp;#39;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;Run &lt;code&gt;bundle update&lt;/code&gt; and &lt;code&gt;bundle install&lt;/code&gt; and we’ll be ready to go!&lt;/p&gt;
+
+  &lt;p&gt;Next step, create a &lt;code&gt;requirejs.yml&lt;/code&gt; file in the &lt;code&gt;config&lt;/code&gt; folder. This file will be our configuration file, where we can put our paths and shim. Take a look in the example bellow.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-yaml&quot; data-lang=&quot;yaml&quot;&gt;&lt;span class=&quot;l-Scalar-Plain&quot;&gt;paths&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;# File paths and names&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;delta&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;delta&amp;#39;&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;application&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;application&amp;#39;&lt;/span&gt;
+
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;jquery&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;jquery&amp;#39;&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;jquery_ujs&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;jquery_ujs&amp;#39;&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;turbolinks&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;turbolinks&amp;#39;&lt;/span&gt;
+
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;shim&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;c1&quot;&gt;# http://requirejs.org/docs/api.html#config-shim&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;jquery&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;l-Scalar-Plain&quot;&gt;exports&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;jquery&amp;#39;&lt;/span&gt;
+  &lt;span class=&quot;l-Scalar-Plain&quot;&gt;jquery_ujs&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;l-Scalar-Plain&quot;&gt;deps&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p-Indicator&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;#39;jquery&amp;#39;&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;]&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;# Default app name&lt;/span&gt;
+&lt;span class=&quot;l-Scalar-Plain&quot;&gt;modules&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;
+  &lt;span class=&quot;p-Indicator&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;#39;application&amp;#39;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;Now it’s time to remove all Sprockets directives, like &lt;code&gt;//= require jquery&lt;/code&gt; from your js files.&lt;/p&gt;
+
+  &lt;p&gt;You can write your scripts using the &lt;a href=&quot;https://github.com/amdjs/amdjs-api/blob/master/AMD.md&quot; target=&quot;_blank&quot;&gt;Asynchronous Module Definition (AMD)&lt;/a&gt; like so:&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// delta.js file&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;define&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;jquery&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;jquery_ujs&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;turbolinks&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+
+  &lt;span class=&quot;s1&quot;&gt;&amp;#39;use strict&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+  &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;delta&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{};&lt;/span&gt;
+
+  &lt;span class=&quot;nx&quot;&gt;delta&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;init&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;addLoader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;p&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;removeLoader&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;a&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+
+  &lt;span class=&quot;nx&quot;&gt;delta&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;addLoader&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;element&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;element&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+
+  &lt;span class=&quot;nx&quot;&gt;delta&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;removeLoader&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;element&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;console&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;element&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;));&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+
+  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;delta&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;init&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;Calling &lt;code&gt;delta.js&lt;/code&gt; file in your &lt;code&gt;application.js&lt;/code&gt; file:&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// application.js file&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;([&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;delta&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;Doing that, just run &lt;code&gt;rake assets:precompile&lt;/code&gt; and we’re done!&lt;/p&gt;
+
+  &lt;h2 id=&quot;odd-thing&quot;&gt;Odd thing&lt;/h2&gt;
+
+  &lt;p&gt;If you’re using &lt;a href=&quot;https://rails-assets.org/&quot; target=&quot;_blank&quot;&gt;Rails Assets&lt;/a&gt;, there’s a bug with the last version of requirejs-rails Gem, I found this but don’t know how to fix yet, the only solution for me was to downgrade the Gem to &lt;code&gt;0.9.3&lt;/code&gt; version. &lt;a href=&quot;https://github.com/jwhitley/requirejs-rails/issues/188&quot; target=&quot;_blank&quot;&gt;Here’s the issue&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;h2 id=&quot;wrapping-up&quot;&gt;Wrapping up&lt;/h2&gt;
+
+  &lt;p&gt;RequireJS is a great solution to write modularized and decoupled JavaScript, but sometimes it can be unnecessary. I recommend you to take a look and test it, not only RequireJS, but &lt;a href=&quot;http://browserify.org/&quot; target=&quot;_blank&quot;&gt;Browserify&lt;/a&gt; also, after all, we are not forced to use these solution.&lt;/p&gt;
+
+  &lt;p&gt;Cya!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 14 Sep 2014 05:00:00 -0300</pubDate>
+        <link>http://lucas.ninja/blog/2014/09/14/requirejs-rails.html</link>
+        <guid isPermaLink="true">http://lucas.ninja/blog/2014/09/14/requirejs-rails.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>2/4 Year review</title>
+        <description>&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;I’m a little late with this post, but here we go, the second part of my year’s review. &lt;a href=&quot;http://agtlucas.com/blog/2014/03/29/year-review-so-far-1-4.html&quot; target=&quot;_blank&quot;&gt;First part.&lt;/a&gt;&lt;/p&gt;
+
+  &lt;h3 id=&quot;lessons-learned&quot;&gt;Lessons learned&lt;/h3&gt;
+  &lt;ul&gt;
+    &lt;li&gt;“The only easy day was yesterday”.&lt;/li&gt;
+    &lt;li&gt;Look to the past, sometimes is dangerous, sometimes is worthwhile.&lt;/li&gt;
+    &lt;li&gt;Risk yourself, find your limits.&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;h3 id=&quot;mission-accomplished&quot;&gt;Mission Accomplished&lt;/h3&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Start my own business&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;h3 id=&quot;mission-failed&quot;&gt;Mission Failed&lt;/h3&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Migrate this site to Ghost. This is a little odd, because I really planned this migration, but I give up.&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;Cya.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 28 Jul 2014 05:00:00 -0300</pubDate>
+        <link>http://lucas.ninja/blog/2014/07/28/year-review-so-far-2-4.html</link>
+        <guid isPermaLink="true">http://lucas.ninja/blog/2014/07/28/year-review-so-far-2-4.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>A month...</title>
+        <description>&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;Well, June’s over yesterday and I didn’t post anything since then.&lt;/p&gt;
+
+  &lt;h3 id=&quot;but-why&quot;&gt;But Why?&lt;/h3&gt;
+
+  &lt;p&gt;May and June was two busy months, for real. I created the GDG Jaraguá do Sul and we did two events, in a gap between 25 days. It was a total blast. &lt;a href=&quot;http://agtlucas.com/blog/2014/05/22/farewell.html&quot;&gt;I quit my job&lt;/a&gt;, and I’ve started my own business: &lt;a href=&quot;http://awlka.com&quot; target=&quot;_blank&quot;&gt;AWLKA&lt;/a&gt;.&lt;/p&gt;
+
+  &lt;h3 id=&quot;whats-next&quot;&gt;What’s next?&lt;/h3&gt;
+
+  &lt;p&gt;A lot of new things will come really soon, stay tuned!&lt;/p&gt;
+
+  &lt;p&gt;Cya&lt;/p&gt;
+
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 01 Jul 2014 05:00:00 -0300</pubDate>
+        <link>http://lucas.ninja/blog/2014/07/01/a-month.html</link>
+        <guid isPermaLink="true">http://lucas.ninja/blog/2014/07/01/a-month.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Farewell</title>
+        <description>&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;Today is the day that mark the end of a journey. I quit my job after 1 year and 10 months.&lt;/p&gt;
+
+  &lt;h3 id=&quot;the-beginning&quot;&gt;The beginning&lt;/h3&gt;
+
+  &lt;p&gt;Everything started with a talk, a &lt;a href=&quot;https://github.com/alessandrostein&quot; target=&quot;_blank&quot;&gt;friend&lt;/a&gt; tell me about a position at &lt;a href=&quot;http://www.milagro.ag/&quot; target=&quot;_blank&quot;&gt;Agência Milagro&lt;/a&gt;, I was unemployed and I thought, why not?&lt;/p&gt;
+
+  &lt;p&gt;So, at night I sent an email to another &lt;a href=&quot;https://github.com/grazigrossklags&quot; target=&quot;_blank&quot;&gt;friend, (who was doing internship there), asking few question about the position and then, I sent my résumé to her and she&lt;/a&gt; indicated me to position.&lt;/p&gt;
+
+  &lt;p&gt;A day later, I was hired, as intern.&lt;/p&gt;
+
+  &lt;h3 id=&quot;the-half&quot;&gt;The half&lt;/h3&gt;
+
+  &lt;p&gt;Working at Milagro was one of the best professional experience I ever had. I learned a lot, teached a lot, make new friends, met new people, visit other city… wow, it was a fantastic experience, for real.&lt;/p&gt;
+
+  &lt;h3 id=&quot;the-end&quot;&gt;The end&lt;/h3&gt;
+
+  &lt;p&gt;Yeah, nothing last forever. Some people call me crazy for leaving my job, and you know, I just don’t care! :)&lt;/p&gt;
+
+  &lt;p&gt;I do what I believe, and I believe in my dreams, so, for that reason I decided to quit my job and build my dreams. That’s it.&lt;/p&gt;
+
+  &lt;p&gt;Lastly, I just wanna say thank to everybody who I worked with there, and in special to, Alessandro, Graziele, Fábio Ronchi and Michel.&lt;/p&gt;
+
+  &lt;p&gt;Cya!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 22 May 2014 18:00:00 -0300</pubDate>
+        <link>http://lucas.ninja/blog/2014/05/22/farewell.html</link>
+        <guid isPermaLink="true">http://lucas.ninja/blog/2014/05/22/farewell.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>23 and counting</title>
+        <description>&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;Yeah, today it’s my birthday and despite the fact that I don’t care to much about birthdays, gifts and parties, I just wanna say thanks to everybody!&lt;/p&gt;
+
+  &lt;p&gt;Thank you to my family, to my friends and everybody who teach me all the things that I know!&lt;/p&gt;
+  &lt;div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 17 May 2014 05:00:00 -0300</pubDate>
+        <link>http://lucas.ninja/blog/2014/05/17/23-and-counting.html</link>
+        <guid isPermaLink="true">http://lucas.ninja/blog/2014/05/17/23-and-counting.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Move on</title>
+        <description>&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;Well, here I’m again.&lt;/p&gt;
+
+  &lt;p&gt;Lesson learned this month. Never ever stay living in the past. Just &lt;em&gt;move on&lt;/em&gt;.&lt;/p&gt;
+
+  &lt;p&gt;I’m coming back.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 29 Apr 2014 05:00:00 -0300</pubDate>
+        <link>http://lucas.ninja/blog/2014/04/29/move-on.html</link>
+        <guid isPermaLink="true">http://lucas.ninja/blog/2014/04/29/move-on.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>GitLab</title>
+        <description>&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;Hello everybody, a long time since my last post, so let’s keep things straightforward.&lt;/p&gt;
+
+  &lt;p&gt;This week, I had the opportunity to play a little with GitLab.&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/img/gitlab.png&quot; alt=&quot;GitLab&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;So, what is GitLab? From the &lt;a href=&quot;http://www.gitlab.com&quot; target=&quot;_blank&quot;&gt;GitLab site&lt;/a&gt;:&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;GitLab offers git repository management, code reviews, issue tracking, activity feeds and wiki’s. Enterprises install GitLab on-premise and connect it with LDAP and Active Directory servers for secure authentication and authorization. A single GitLab server can handle more than 25,000 users but it is also possible to create a high availability setup with a multiple active servers.&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;In my case, I’m using GitLab Community Edition (CE):&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;GitLab Community Edition (CE) is open source software to collaborate on code.
+Create projects and repositories, manage access and do code reviews.
+The Community Edition is installable software that you can use on-premise.&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;p&gt;I installed GitLab on a &lt;a href=&quot;https://www.digitalocean.com/?refcode=c7f065a7eded&quot; target=&quot;_blank&quot;&gt;DigitalOcean&lt;/a&gt; server. I’m using a server with 512Mb of memory and it’s running blaze fast. Yep, the GitLab’s documentation recommends at least 1Gb of memory, but just for me play around, 512Mb is sufficient.&lt;/p&gt;
+
+  &lt;p&gt;GitLab is really cool, works almost like GitHub, even your look and feel is similar. Things like issues, pull requests, snippets (gist), branch compare are awesome.&lt;/p&gt;
+
+  &lt;p&gt;Even more awesome is the Merge Request! Yep, you can request a branch merge.&lt;/p&gt;
+
+  &lt;p&gt;If you’d like to install a git management tool, you definitely should give GitLab a shoot!&lt;/p&gt;
+
+  &lt;h3 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h3&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/install/requirements.md&quot; target=&quot;_blank&quot;&gt;GitLab Requirements&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;https://github.com/gitlabhq/gitlabhq/blob/master/doc/install/installation.md&quot; target=&quot;_target&quot;&gt;Installation Guide&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 18 Apr 2014 05:00:00 -0300</pubDate>
+        <link>http://lucas.ninja/blog/2014/04/18/gitlab.html</link>
+        <guid isPermaLink="true">http://lucas.ninja/blog/2014/04/18/gitlab.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>1/4 Year review</title>
+        <description>&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;It’s almost april, and today I was thinking in how my year is going, so far. So, this is a little review of 1/4 of my year.&lt;/p&gt;
+
+  &lt;p&gt;To get start, the lessons I’ve learned:&lt;/p&gt;
+
+  &lt;h3 id=&quot;lessons-learned&quot;&gt;Lessons learned&lt;/h3&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Open dialog is the way to go&lt;/li&gt;
+    &lt;li&gt;The truth is hard, but is the better choice&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://agtlucas.com/blog/2014/03/01/mission-failed.html&quot;&gt;One blog post per day it’s extremely hard!&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;You can’t make the difference until you make the difference for yourself&lt;/li&gt;
+    &lt;li&gt;Don’t fear the fail, fear the same&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;This 5 lessons has made my year so far.&lt;/p&gt;
+
+  &lt;p&gt;For the next 2/4, I ~~wanna~~ will achieve:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Migrate this site to Ghost (in progress, 70% done)&lt;/li&gt;
+    &lt;li&gt;Start my own business&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;That’s it!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 29 Mar 2014 05:00:00 -0300</pubDate>
+        <link>http://lucas.ninja/blog/2014/03/29/year-review-so-far-1-4.html</link>
+        <guid isPermaLink="true">http://lucas.ninja/blog/2014/03/29/year-review-so-far-1-4.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Moving forward</title>
+        <description>&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;&lt;img src=&quot;/img/just-a-quote.jpg&quot; alt=&quot;If you want something you&#39;ve never had, then you&#39;ve got to do something you&#39;ve never done.&quot; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 22 Mar 2014 07:30:00 -0300</pubDate>
+        <link>http://lucas.ninja/blog/2014/03/22/moving-forward.html</link>
+        <guid isPermaLink="true">http://lucas.ninja/blog/2014/03/22/moving-forward.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
