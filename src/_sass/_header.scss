@@ -26,11 +26,18 @@
 .dark {
   .ninja {
     fill: $aww;
+    &:hover {
+      fill: darken($aww, 20);
+    }
   }
 }
 
 .default {
   .ninja {
     fill: $ablack;
+    stroke: lighten($ablack, 20);
+    &:hover {
+      fill: lighten($ablack, 20);
+    }
   }
 }
