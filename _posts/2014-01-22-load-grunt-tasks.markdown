@@ -6,9 +6,11 @@ categories: blog
 description: Using Load Grunt Tasks plugin
 ---
 
+<div class="wrapper" markdown="1">
 TL;DR
 
 Let's say you have a Gruntfile like this:
+</div>
 
 {% highlight javascript %}
 'use strict';
@@ -55,11 +57,13 @@ module.exports = function(grunt) {
 }
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 No problem, right? Yeah, but take a look in how many `grunt.loadNpmTasks` we have, for each plugin that we're using, we need to enable them in our Gruntfile. This can be really painful when we're using a lot of plugins.
 
 To solve "this problem", we can use a plugin (oh rly?) to load all our plugins in our Gruntfile, this plugin by <a href="https://github.com/sindresorhus" target="_blank">Sindre Sorhus</a> is called <a href="https://github.com/sindresorhus/load-grunt-tasks" target="_blank">load-grunt-tasks</a>.
 
 Our Gruntfile using load-grunt-tasks plugin:
+</div>
 
 {% highlight javascript %}
 'use strict';
@@ -102,4 +106,6 @@ module.exports = function(grunt) {
 }
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 Much better, right?
+</div>
