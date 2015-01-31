@@ -6,7 +6,9 @@ categories: blog
 description: ...
 ---
 
+<div class="wrapper" markdown="1">
 ### Status:
 
 * Sick;
 * Tired;
+</div>
