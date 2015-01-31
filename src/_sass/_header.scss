@@ -1,4 +1,8 @@
 // Header styles
+.site-header {
+  @include clearfix();
+}
+
 .ninja {
   @include media($mobile) {
     display: block;

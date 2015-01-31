@@ -40,6 +40,16 @@
 }
 
 .post-content {
+  position: relative;
+
+  ul,
+  p {
+    font-size: em(25);
+    max-width: 1100px;
+    margin: em(20) auto;
+    padding: 0 em(20);
+  }
+
   /* h1,
   h2,
   h3,
