@@ -16,7 +16,7 @@ sass:
     sass_dir: _sass
     style: :compressed
 
-include: ['.gitignore', 'CNAME']
+# include: ['.gitignore', 'CNAME']
 
 paginate: 10
 paginate_path: "blog/page:num/"
