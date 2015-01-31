@@ -6,6 +6,8 @@ categories: blog
 description: Finally, Yeoman + Gulp
 ---
 
+<div class="wrapper" markdown="1">
 After the "Gulp boom", finally Yeoman and Gulp together!
 
 Read the entire history <a href="http://yeoman.io/blog/gulp-explore.html">here</a>.
+</div>
