@@ -45,19 +45,6 @@
     font-size: em(25);
   }
 
-  /* h1,
-  h2,
-  h3,
-  ul,
-  p {
-    font-size: em(25);
-    width: 1088px;
-    max-width: 100%;
-    margin: em(20) auto;
-    padding: 0 em(20);
-    @include clearfix;
-  } */
-
   blockquote {
     font-style: italic;
     padding: em(5) 0;
@@ -83,4 +70,9 @@ p {
     background: darken($aww, 20);
     padding: em(3) em(7);
   }
+}
+
+iframe {
+  display: block;
+  margin: auto;
 }
