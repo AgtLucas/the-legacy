@@ -6,6 +6,7 @@ categories: blog
 description: WebKit Replay Support video
 ---
 
+<div class="wrapper" markdown="1">
 Later this week, <a href="https://twitter.com/brrian" target="_blank">Brian Burg</a> announced through <a href="https://lists.webkit.org/mailman/listinfo/webkit-dev" target="_blank">webkit-dev list</a>, web replay support on WebKit:
 
 <blockquote>
@@ -26,3 +27,4 @@ And here a lot of more information:
 * <a href="https://github.com/burg/timelapse/wiki" target="_blank">Prototype's wiki</a>
 
 Can't wait!
+</div>
