@@ -6,6 +6,7 @@ categories: blog
 description: Have you ever heard about Zen Pencils?
 ---
 
+<div class="wrapper" markdown="1">
 No tech post today!
 
 Have you ever heard about <a href="http://zenpencils.com/" target="_blank">Zen Pencils</a>?
@@ -19,3 +20,4 @@ I really love that website, go ahead and read some cartoons!
 Here's my favorite:
 
 <a href="http://zenpencils.com/comic/101-winston-churchill-never-yield-to-force/" target="_blank"><img src="/img/2013-01-29-churchill.jpg" alt="Winston Churchill (1874-1965) was a British politician and Prime Minister during World War II, where he led the country against the Axis Powers. His unshakable leadership, inspiring speeches and refusal to back down to Hitler under any circumstances helped keep British confidence high and fortify the resistance. Churchill also won the Nobel Prize for Literature and was voted the greatest Briton of all time in a 2002 BBC poll." title="Winston Churchill (1874-1965) was a British politician and Prime Minister during World War II, where he led the country against the Axis Powers. His unshakable leadership, inspiring speeches and refusal to back down to Hitler under any circumstances helped keep British confidence high and fortify the resistance. Churchill also won the Nobel Prize for Literature and was voted the greatest Briton of all time in a 2002 BBC poll."></a>
+</div>
