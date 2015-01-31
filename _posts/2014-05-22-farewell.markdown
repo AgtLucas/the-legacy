@@ -6,6 +6,7 @@ categories: blog
 description: A long time ago...
 ---
 
+<div class="wrapper" markdown="1">
 Today is the day that mark the end of a journey. I quit my job after 1 year and 10 months.
 
 ### The beginning
@@ -29,3 +30,4 @@ I do what I believe, and I believe in my dreams, so, for that reason I decided t
 Lastly, I just wanna say thank to everybody who I worked with there, and in special to, Alessandro, Graziele, Fábio Ronchi and Michel.
 
 Cya!
+</div>
