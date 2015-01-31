@@ -6,6 +6,7 @@ categories: blog
 description: A year full of surprises
 ---
 
+<div class="wrapper" markdown="1">
 Hello folks! What an interesting year, isn't it?
 
 Here I'm to write a little review about my year. Let's getting started.
@@ -71,3 +72,4 @@ Here I'm to write a little review about my year. Let's getting started.
 More to come... 2015!
 
 > Happy New Year, everyone!
+</div>
