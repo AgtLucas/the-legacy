@@ -6,6 +6,8 @@ categories: blog
 description: ...was yesterday
 ---
 
+<div class="wrapper" markdown="1">
 >“The only easy day was yesterday”
 
 - United States Navy SEALs motto
+</div>
