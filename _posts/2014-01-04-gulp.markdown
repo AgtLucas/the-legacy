@@ -42,7 +42,9 @@ gulp.watch(glob, fn)
 
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 Bellow an example of a real `gulpfile.js`:
+</div>
 
 {% highlight javascript %}
 
