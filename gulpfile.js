@@ -55,6 +55,6 @@ gulp.task('default', ['browserify', 'sass']);
 
 // Deploy task
 gulp.task('deploy', function () {
-  gulp.src('_site/**/*.*')
+  gulp.src(['_site/**/*.*', '_site/CNAME'])
     .pipe(deploy());
 });

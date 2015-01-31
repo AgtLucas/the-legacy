@@ -9,12 +9,18 @@
 }
 
 .lucas {
-  display: block;
-  margin: auto;
   border-radius: 100%;
 
   @include media($mobile) {
     width: em(100);
+  }
+
+  @include media($tablet) {
+    width: em(150);
+  }
+
+  @include media($desktop-x) {
+    width: em(200);
   }
 }
 
