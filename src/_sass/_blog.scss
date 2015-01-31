@@ -67,8 +67,23 @@
 
 p {
   code {
-    background: darken($aww, 20);
     padding: em(3) em(7);
+  }
+}
+
+.dark {
+  p {
+    code {
+      background: $ablue;
+    }
+  }
+}
+
+.default {
+  p {
+    code {
+      background: lighten($adark, 50);
+    }
   }
 }
 
