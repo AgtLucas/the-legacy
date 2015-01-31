@@ -6,11 +6,13 @@ categories: blog
 description: A really cool feature
 ---
 
+<div class="wrapper" markdown="1">
 A really cool stuff about Sass and other css pre-processors, are their capability and features that allow you to reuse your code.
 
 Alongside with `@mixin`, Sass has a built in feature called `@extend`.
 
 #### Example:
+</div>
 
 {% highlight scss %}
 .foo {
@@ -23,7 +25,9 @@ Alongside with `@mixin`, Sass has a built in feature called `@extend`.
 }
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 #### Output:
+</div>
 
 {% highlight css %}
 .foo,
@@ -36,4 +40,6 @@ bar {
 }
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 In a nutshell, it allow you to share the class properties with another class or element (or id).
+</div>
