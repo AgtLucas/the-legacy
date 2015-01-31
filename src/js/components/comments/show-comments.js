@@ -13,4 +13,6 @@ var showComments = function () {
   }
 };
 
-module.exports = showComments;
+module.exports = {
+  showComments: showComments
+};

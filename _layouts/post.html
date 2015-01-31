@@ -12,9 +12,17 @@ skin: default
     </header>
   </div>
 
-    <article class="post-content">
-      {{ content }}
-    </article>
-  <!-- </div> -->
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+  <div class="wrapper">
+    <section class="comments">
+    <h4 class="show-comments" id="show-comments">Show Comments</h4>
+    <div class="comments-content">
+      <div class="post-comments" id="disqus_thread"></div>
+    </div>
+  </section>
+  </div>
 
 </section>
