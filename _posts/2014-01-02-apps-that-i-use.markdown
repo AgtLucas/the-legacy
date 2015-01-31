@@ -6,12 +6,15 @@ categories: blog
 description: Apps that I use
 ---
 
+<div class="wrapper" markdown="1">
 Whichever is your development platform of choice, I'm sure you've a lot of apps that you cannot live without.
 
 I'm of those people that enjoy to test and discover new apps, and because of that, I've decide to share the apps I use every day (or, almost every day).
+</div>
 
 <img src="/img/apps.png" alt="My Apps on Dock">
 
+<div class="wrapper" markdown="1">
 Following the image above, after Finder and App Store (the two first of the left):
 
 **<a href="https://agilebits.com/onepassword" target="_blank">1Password</a>**: Ok, 1Password this is a little bit expensive, but worth. The best way you can organize all of your 21315812312 of passwords.
@@ -49,3 +52,4 @@ That's cover the dock image, but I use a lot of other apps and I'll cover them i
 For now, I think it's over.
 
 That's all folks!
+</div>
