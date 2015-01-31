@@ -1,0 +1,29 @@
+// Header styles
+.ninja {
+  @include media($mobile) {
+    display: block;
+    margin: auto;
+  }
+
+  @include media($tablet) {
+    display: block;
+    margin: auto;
+  }
+
+  @include media($desktop-x) {
+    position: fixed;
+    left: 0;
+  }
+}
+
+.dark {
+  .ninja {
+    fill: $aww;
+  }
+}
+
+.default {
+  .ninja {
+    fill: $ablack;
+  }
+}

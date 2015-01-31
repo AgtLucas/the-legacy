@@ -1,8 +1,31 @@
 // Blog styles
 
 .post-container {
+  padding: em(25) 0;
+
+  @include media($mobile) {
+    text-align: center;
+  }
+
+  @include media($tablet) {
+    text-align: center;
+  }
 
   @include media($desktop-x) {
-    
+    margin-left: em(65);
   }
+}
+
+.post-title {
+  font-size: rem(26);
+  font-weight: bold;
+  text-decoration: none;
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.post-date {
+  display: block;
+  font-style: italic;
 }
