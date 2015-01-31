@@ -6,6 +6,7 @@ categories: blog
 description: The GitHub new text editor!
 ---
 
+<div class="wrapper" markdown="1">
 <img src="/img/atom-logo.png" alt="Atom Logo" />
 
 In the last week, Atom, the new text-editor made by GitHub was announced.
@@ -23,3 +24,4 @@ I had the beta access thanks to a friend, and I've been using Atom since the las
 Really liked the Atom so far, just crashed one time.
 
 More information about Atom soon!
+</div>
