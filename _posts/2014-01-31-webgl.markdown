@@ -6,6 +6,8 @@ categories: blog
 description: All about WebGL
 ---
 
+<div class="wrapper" markdown="1">
 Wanna learn WebGL? You must watch this video!
 
 <iframe width="944" height="531" src="//www.youtube.com/embed/sIhtcUvi0BQ" frameborder="0" allowfullscreen></iframe>
+</div>
