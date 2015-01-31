@@ -6,8 +6,10 @@ categories: blog
 description: Sometimes you need a break
 ---
 
+<div class="wrapper" markdown="1">
 >Too many sides to you<br>
 >Don't know which anymore<br>
 >- *For the Greater Good of God - Iron Maiden*
 
 Yeah, sometimes you need a break, to think about everything.
+</div>
