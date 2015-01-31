@@ -6,8 +6,10 @@ categories: blog
 description: Starting all over again
 ---
 
+<div class="wrapper" markdown="1">
 Today I returned to work after my break for the holidays...
 
 I'm afraid that I'll not have much time to write, but I'll do my best!
 
 Cya!
+</div>
