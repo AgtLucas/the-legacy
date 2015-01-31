@@ -6,6 +6,7 @@ categories: blog
 description: Someday...
 ---
 
+<div class="wrapper" markdown="1">
 ### Status:
 
 Tired but happy.
@@ -13,3 +14,5 @@ Tired but happy.
 ### Quote of day:
 
 >“*Someday* is a disease that will take your dreams to the grave with you.” - Timothy Ferriss
+
+</div>
