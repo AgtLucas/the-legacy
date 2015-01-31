@@ -6,6 +6,7 @@ categories: blog
 description: What's going on, Lucas?
 ---
 
+<div class="wrapper" markdown="1">
 Hello everyone,
 
 Since I've decided to migrate this entire site to Ghost, I doing some changes here, mostly in some performance gaps.
@@ -19,3 +20,4 @@ At the Ghost migration fields, I'm still studying and planning how to make the m
 That's it, time to go back to work!
 
 Cya!
+</div>
