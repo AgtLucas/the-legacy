@@ -40,16 +40,25 @@
 }
 
 .post-content {
-  h1,
+  /* h1,
   h2,
   h3,
   h4,
   h5,
   h6,
   ul,
-  p,
-  blockquote {
+  p {
     @include outer-container;
     padding: 0 em(20);
+    font-size: rem(20);
   }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-left: em(80);
+  } */
 }
