@@ -18,6 +18,7 @@ Maybe those people don't know there are awesome tools, like <a href="http://yeom
 Ok, Yeoman is a collection of tools and best practices to help you achieve your objective.
 
 It's composed by three main tools:
+
 >
 * Yo: Scaffold everything
 * Grunt: Task runner
