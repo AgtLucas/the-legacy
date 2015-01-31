@@ -6,6 +6,7 @@ categories: blog
 description: My year so far
 ---
 
+<div class="wrapper" markdown="1">
 It's almost april, and today I was thinking in how my year is going, so far. So, this is a little review of 1/4 of my year.
 
 To get start, the lessons I've learned:
@@ -26,3 +27,4 @@ For the next 2/4, I ~~wanna~~ will achieve:
 * Start my own business
 
 That's it!
+</div>
