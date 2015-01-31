@@ -6,8 +6,10 @@ categories: blog
 description: Nothing to say
 ---
 
+<div class="wrapper" markdown="1">
 Another nonsense post.
 
 Actually I really need to sleep, I just arrived from the college and I'm almost 48 hours without sleep!
 
 Good night!
+</div>
