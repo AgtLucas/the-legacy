@@ -6,11 +6,13 @@ categories: blog
 description: An introduce to CSS Variables
 ---
 
+<div class="wrapper" markdown="1">
 The CSS variables is a experimental technology, still a <a href="http://dev.w3.org/csswg/css-variables/" target="_blank">editor's draft on W3C</a>.
 
 > This module introduces cascading variables as a new primitive value type that is accepted by all CSS properties, and custom properties for defining them.
 
 ### How to use?
+</div>
 
 {% highlight css %}
 :root {
@@ -22,6 +24,7 @@ p {
 }
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 Easy, isn't? Ok, not so easy and simple as Sass/Less/Stylus, but I think it's a great start.
 
 ### Can I use this today?
@@ -34,3 +37,4 @@ If you would like to test, <a href="http://agtlucas.github.io/css-variables/" ta
 
 * <a href="http://dev.w3.org/csswg/css-variables/" target="_blank">Editor's Draft</a>
 * <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_variables" target="_blank">Using CSS variables - MDN</a>
+</div>
