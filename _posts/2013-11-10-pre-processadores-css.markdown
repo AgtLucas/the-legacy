@@ -6,6 +6,7 @@ categories: blog
 description: Uma visão geral sobre pré-processadores CSS
 ---
 
+<div class="wrapper" markdown="1">
 Olá,
 
 Mais uma vez sumi, e hoje voltei :)
@@ -33,6 +34,7 @@ Não vou entrar em detalhes de qual é o melhor, ou falar pra você usar X pois 
 O Sass possui dois tipos de sintaxe com extensões diferentes (.sass e .scss); a primeira e mais antiga, existe desde a primeira versão do Sass, inspirado pelo Ruby, você não precisa se preocupar com ponto e vírgula, apenas com espaço e identação. Já a segunda, surgiu em versão posterior, e se parece como CSS normal, atualmente é a mais utilizada.
 
 Como falei acima, um dos principais benefícios dos pré-processadores é adicionar funcionalidades. Sabe aquela cor em hexadecimal que tu nunca lembra de cabeça, não seria uma boa armazenar ela em uma variável? Então...
+</div>
 
 {% highlight scss %}
 // .scss
@@ -49,7 +51,9 @@ p
   color: $azul
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 Outra coisa bacana são os aninhamentos, ao invés de escrever assim:
+</div>
 
 {% highlight css %}
 ul {
@@ -69,7 +73,9 @@ ul li a:hover {
 }
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 Com o sass você pode fazer melhor, pode fazer assim:
+</div>
 
 {% highlight scss %}
 // .scss
@@ -97,9 +103,11 @@ ul
         color: teal
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 > Cuidado com os aninhamentos, pelo bem da performance, evite usar mais de 3 aninhamentos, use classes!
 
 Cálculos, sim, com o Sass você pode fazer uso de funções matématicas para alcançar seu objetivo:
+</div>
 
 {% highlight scss %}
 // Podemos usar todas as operações
@@ -116,7 +124,9 @@ margin: 40px * 10px
 margin: (40px - 10px)
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 Ainda na parte de cálculos, por padrão o Sass possui algumas funções que você pode usar:
+</div>
 
 {% highlight scss %}
 // .scss
@@ -131,9 +141,11 @@ width: percentage(2.5)
 // etc...
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 Existem muitas outras operações envolvendo números e até mesmo cores!
 
 Falando um pouco do reuso, podemos fazer algo assim:
+</div>
 
 {% highlight scss %}
 // .scss
@@ -157,7 +169,9 @@ Falando um pouco do reuso, podemos fazer algo assim:
 }
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 Mixins são funções que você escreve, vejamos um exemplo:
+</div>
 
 {% highlight scss %}
 // .scss
@@ -178,7 +192,9 @@ Mixins são funções que você escreve, vejamos um exemplo:
   +box(black, white)
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 Posso até mesmo usar while, for, if, etc
+</div>
 
 {% highlight scss %}
 // .scss
@@ -212,6 +228,7 @@ h6 {
 }
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 Bem legal!
 
 Hoje outro termo que sempre se ouve por aí é modularização, quebrar o seu código em vários pedaços para facilitar a manutenção e organização.
@@ -221,6 +238,7 @@ Com o Sass (ou melhor, os pré-processadores css), podemos usar esse conceito de
 Digamos que eu tenha 3 arquivos css separados, e chamo eles separadamente no head da minha página, com o Sass, podemos usar o @import:
 
 > Posso criar um arquivo style.scss e nele incluir meus imports
+</div>
 
 {% highlight scss %}
 // .scss
@@ -229,6 +247,7 @@ Digamos que eu tenha 3 arquivos css separados, e chamo eles separadamente no hea
 @import 'layout';
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 O resultado é 1 arquivo apenas, com o conteúdo dos 3 arquivos, e apenas uma requisição :)
 
 É isso, espero ter cobrido o básico do básico sobre pré-processadores, neste caso o Sass.
@@ -246,3 +265,4 @@ Não deixe de ler a documentação oficial, entre outros links abaixo:
 </ul>
 
 Até a próxima!
+</div>
