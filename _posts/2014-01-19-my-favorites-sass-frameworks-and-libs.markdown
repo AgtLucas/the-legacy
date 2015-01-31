@@ -6,6 +6,7 @@ categories: blog
 description: A small list of Sass Frameworks
 ---
 
+<div class="wrapper" markdown="1">
 Hello everyone,
 
 Sass is my favorite css preprocessor, rarely I don't use Sass in my projects. Even at my job, where I started to use and the other devs are using it too.
@@ -26,3 +27,4 @@ That's my list.
 Would be glad to hear what are your favorites Sass Frameworks and libs!
 
 Cya!
+</div>
