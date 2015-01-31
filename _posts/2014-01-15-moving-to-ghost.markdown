@@ -6,6 +6,7 @@ categories: blog
 description: From Ruby to Node.js, moving to Ghost!
 ---
 
+<div class="wrapper" markdown="1">
 I'd been planning this for a while, I guess since the <a href="http://ghost.org" target="_blank">Ghost</a> launch and now I'm sure, I'll move this entire blog to Ghost Platform.
 
 <img src="/img/Ghost-Logo-Dark.jpg" alt="Ghost Logo Dark">
@@ -22,3 +23,4 @@ I can't wait to get everything up and running on Ghost, and I'll document this w
 * End: 10th February 2014
 
 Cya!
+</div>
