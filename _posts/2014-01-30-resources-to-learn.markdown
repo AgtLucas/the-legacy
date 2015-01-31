@@ -6,6 +6,7 @@ categories: blog
 description: Great resources to learn code and other stuff
 ---
 
+<div class="wrapper" markdown="1">
 Here's a small list of great resources to learn code and other tech stuff:
 
 * <a href="https://www.udacity.com/" target="_blank">Udacity</a>
@@ -17,3 +18,4 @@ Here's a small list of great resources to learn code and other tech stuff:
 * <a href="https://www.edx.org/" target="_blank">edX</a>
 
 Of course there are many, many other options, but these above listed are pretty cool!
+</div>
