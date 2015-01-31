@@ -6,4 +6,6 @@ categories: blog
 description: Just a quote
 ---
 
+<div class="wrapper" markdown="1">
 <img src="/img/just-a-quote.jpg" alt="If you want something you've never had, then you've got to do something you've never done.">
+</div>
