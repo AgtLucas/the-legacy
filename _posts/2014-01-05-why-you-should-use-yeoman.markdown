@@ -6,6 +6,7 @@ categories: blog
 description: A quick overview about Yeoman
 ---
 
+<div class="wrapper" markdown="1">
 TL;DR: Because it's awesome!
 
 <img src="/img/yeoman-logo.png" alt="Yeoman Logo">
@@ -30,7 +31,7 @@ E.g: This blog is built using a <a href="https://github.com/robwierzbowski/gener
 
 That's a cool thing, <a href="http://yeoman.io/community-generators.html" target="_blank">these generators</a> are built by people, are open source!
 
-Let's suppose you wanna make an <a href="http://angularjs.org" target="_blank">Angular</a> App, instead of downloading everything manually and seperately, isn't more easy to just run a command line and wait to Yeoman make your job? Of course it is!
+Let's suppose you wanna make an <a href="http://angularjs.org" target="_blank">Angular</a> App, instead of downloading everything manually and separately, isn't more easy to just run a command line and wait to Yeoman make your job? Of course it is!
 
 In this example, you only have to install the Angular generator, and run the command to start your scaffold.
 
@@ -41,3 +42,4 @@ The key are the tasks, every repetitive task you would do manually can be automa
 I'm not trying force you to use Yeoman, (I guess) but, try new things, try something new! Even if you don't intend to use, is good open your mind!
 
 That's all.
+</div>
