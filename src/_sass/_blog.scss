@@ -39,29 +39,6 @@
   margin: em(25) 0 0 0;
 }
 
-blockquote {
-  font-style: italic;
-  padding: em(5) 0;
-  width: 100%;
-  margin: 0;
-  p {
-    &:before {
-      padding-bottom: em(10);
-      display: block;
-      content: "☵";
-      text-align: center;
-      font-style: normal;
-    }
-  }
-}
-
-p {
-  code {
-    background: darken($aww, 20);
-    padding: em(3) em(7);
-  }
-}
-
 .post-content {
   position: relative;
 
@@ -77,25 +54,28 @@ p {
     @include clearfix;
   }
 
-  /* h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6,
-  ul,
-  p {
-    @include outer-container;
-    padding: 0 em(20);
-    font-size: rem(20);
+  blockquote {
+    font-style: italic;
+    padding: em(5) 0;
+    width: 100%;
+    margin: 0;
+    p {
+      margin-top: 0;
+      &:before {
+        padding-bottom: em(10);
+        display: block;
+        content: "☵";
+        text-align: center;
+        font-style: normal;
+      }
+    }
   }
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    margin-left: em(80);
-  } */
+}
+
+p {
+  code {
+    background: darken($aww, 20);
+    padding: em(3) em(7);
+  }
 }
