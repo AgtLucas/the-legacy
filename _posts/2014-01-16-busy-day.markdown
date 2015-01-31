@@ -6,8 +6,10 @@ categories: blog
 description: Really busy!
 ---
 
+<div class="wrapper" markdown="1">
 Status: Working in four different projects (not at my job).
 
 Quote of day:
 
 > “The biggest failure you can have in life is making the mistake of never trying at all.” – Unknown
+</div>
