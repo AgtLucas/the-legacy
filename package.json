@@ -4,7 +4,7 @@
   "description": "New blog!",
   "main": "index.js",
   "scripts": {
-    "start": "jekyll build && gulp deploy",
+    "start": "bundle exec jekyll build && gulp deploy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
