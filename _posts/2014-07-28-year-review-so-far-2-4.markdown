@@ -6,6 +6,7 @@ categories: blog
 description: My year so far, a little late...
 ---
 
+<div class="wrapper" markdown="1">
 I'm a little late with this post, but here we go, the second part of my year's review. <a href="http://agtlucas.com/blog/2014/03/29/year-review-so-far-1-4.html" target="_blank">First part.</a>
 
 
@@ -24,3 +25,4 @@ I'm a little late with this post, but here we go, the second part of my year's r
 * Migrate this site to Ghost. This is a little odd, because I really planned this migration, but I give up.
 
 Cya.
+</div>
