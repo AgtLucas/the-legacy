@@ -6,6 +6,7 @@ categories: blog
 description: My daily Bookshelf
 ---
 
+<div class="wrapper" markdown="1">
 There are 2 books that I'm reading in my day to day.
 
 * JavaScript: The Definitive Guide
@@ -21,3 +22,4 @@ This book is awesome! I not finished to read it yet, but it's a monster!
 Short book, but with some awesome information about Node.js.
 
 This is mine, what's your?
+</div>
