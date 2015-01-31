@@ -6,6 +6,7 @@ categories: blog
 description: My year so far, a little late...
 ---
 
+<div class="wrapper" markdown="1">
 Hello there,
 
 Well, it's september and I didn't post nothing since July. :/ Let's do this!
@@ -23,14 +24,17 @@ Fortunately, there's a Gem that makes ease to implement RequireJS in a Rails pro
 ## Using requirejs-rails Gem
 
 You'll need to install the Gem, so add it in your Gemfile:
+</div>
 
 {% highlight ruby %}
 gem 'requirejs-rails'
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 Run `bundle update` and `bundle install` and we'll be ready to go!
 
 Next step, create a `requirejs.yml` file in the `config` folder. This file will be our configuration file, where we can put our paths and shim. Take a look in the example bellow.
+</div>
 
 {% highlight yaml %}
 paths:
@@ -54,9 +58,11 @@ modules:
   - name: 'application'
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 Now it's time to remove all Sprockets directives, like `//= require jquery` from your js files.
 
 You can write your scripts using the <a href="https://github.com/amdjs/amdjs-api/blob/master/AMD.md" target="_blank">Asynchronous Module Definition (AMD)</a> like so:
+</div>
 
 {% highlight javascript %}
 // delta.js file
@@ -84,7 +90,9 @@ define(['jquery', 'jquery_ujs', 'turbolinks'], function ($) {
 });
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 Calling `delta.js` file in your `application.js` file:
+</div>
 
 {% highlight javascript %}
 // application.js file
@@ -93,6 +101,7 @@ require(['delta'], function () {
 });
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 Doing that, just run `rake assets:precompile` and we're done!
 
 ## Odd thing
@@ -104,3 +113,4 @@ If you're using <a href="https://rails-assets.org/" target="_blank">Rails Assets
 RequireJS is a great solution to write modularized and decoupled JavaScript, but sometimes it can be unnecessary. I recommend you to take a look and test it, not only RequireJS, but <a href="http://browserify.org/" target="_blank">Browserify</a> also, after all, we are not forced to use these solution.
 
 Cya!
+</div>
