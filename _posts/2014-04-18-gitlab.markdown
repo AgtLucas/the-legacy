@@ -6,6 +6,7 @@ categories: blog
 description: Open Source Git Management Software
 ---
 
+<div class="wrapper" markdown="1">
 Hello everybody, a long time since my last post, so let's keep things straightforward.
 
 This week, I had the opportunity to play a little with GitLab.
@@ -34,3 +35,4 @@ If you'd like to install a git management tool, you definitely should give GitLa
 
 * <a href="https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/install/requirements.md" target="_blank">GitLab Requirements</a>
 * <a href="https://github.com/gitlabhq/gitlabhq/blob/master/doc/install/installation.md" target="_target">Installation Guide</a>
+</div>
