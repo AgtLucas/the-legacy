@@ -6,6 +6,7 @@ categories: blog
 description: ...without a post
 ---
 
+<div class="wrapper" markdown="1">
 Well, June's over yesterday and I didn't post anything since then.
 
 ### But Why?
@@ -17,3 +18,5 @@ May and June was two busy months, for real. I created the GDG Jaraguá do Sul an
 A lot of new things will come really soon, stay tuned!
 
 Cya
+
+</div>
