@@ -6,7 +6,9 @@ categories: blog
 description: Never give up!
 ---
 
+<div class="wrapper" markdown="1">
 >Success consists of going from failure to failure without loss of enthusiasm.
 - *Winston Churchill*
 
 If you have a dream, no matter how many times you fail, you must keep going until achieve your dream.
+</div>
