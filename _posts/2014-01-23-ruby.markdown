@@ -6,6 +6,7 @@ categories: blog
 description: So, let's stop with this conservative way of teaching, and start a new era of teaching, with new tools, always aiming in innovation and creativity!
 ---
 
+<div class="wrapper" markdown="1">
 Today a friend of mine have asked me, "Why schools don't use Ruby to teaching programming?"
 
 That's a good question, and surely it depends a lot of other answers but, I think the main point is the regional one. At least here in Brazil, almost all universities and schools only offer courses based in regional industries areas, this make sense, "supply and demand".
@@ -13,3 +14,4 @@ That's a good question, and surely it depends a lot of other answers but, I thin
 I don't agree with that. I agree with my friend, Ruby is a great language, powerful, easy to learn, and should be use in class!
 
 So, let's stop with this conservative way of teaching, and start a new era of teaching, with new tools, always aiming in innovation and creativity!
+</div>
