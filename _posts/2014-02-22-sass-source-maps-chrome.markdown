@@ -6,6 +6,8 @@ categories: blog
 description: Awesome Hangout about Source Maps
 ---
 
+<div class="wrapper" markdown="1">
 Found this video today:
 
 <iframe width="944" height="531" src="//www.youtube.com/embed/dzbAtpgPZQE" frameborder="0" allowfullscreen></iframe>
+</div>
