@@ -25,7 +25,7 @@ gulp.task('browserify', function () {
 
 // Sass Task
 gulp.task('sass', function () {
-  gulp.src('src/_sass/main.scss')
+  gulp.src(['src/_sass/main.scss', 'src/_sass/home.scss'])
     .pipe(sass({
       style: 'expanded',
       includePaths: neat
