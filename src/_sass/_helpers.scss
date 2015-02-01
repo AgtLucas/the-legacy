@@ -1,18 +1,4 @@
 // Helpers to help!
-
-/*
-  Maintain ratio mixin. https://gist.github.com/stoplion/3777538
-  @param {List} [$ratio] Ratio the element needs to maintain. A 16:9 ratio would look like this: .element { @include maintain-ratio(16 9); }
-*/
-@mixin maintain-ratio($ratio: 1 1) {
-  $width: 100%;
-  $height: percentage(nth($ratio, 2) / nth($ratio, 1));
-
-  width: $width;
-  height: 0;
-  padding-bottom: $height;
-}
-
 @mixin flex-body {
   min-height: 100vh;
   /**
@@ -40,11 +26,4 @@
   -ms-flex-direction: column;
   /* unprefixed new syntax */
   flex-direction: column;
-}
-
-button,
-.btn {
-  padding: em(10) em(25);
-  display: inline-block;
-  @include transition(all 0.2s ease-in-out);
 }
