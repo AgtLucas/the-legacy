@@ -23,7 +23,7 @@ gulp.task('browserify', function () {
     .pipe(gulp.dest('_includes/assets/js'));
 });
 
-// Sass Task
+// Inline Sass Task
 gulp.task('sass', function () {
   gulp.src(['src/_sass/main.scss', 'src/_sass/home.scss'])
     .pipe(sass({
@@ -33,6 +33,18 @@ gulp.task('sass', function () {
     .pipe(gulp.dest('_includes/assets/css'))
     .pipe(minifycss())
     .pipe(gulp.dest('_includes/assets/css'));
+});
+
+// Normal Sass
+gulp.task('n-sass', function () {
+  gulp.src('src/_sass/highlight.scss')
+  .pipe(sass({
+    style: 'expanded',
+    includePaths: neat
+  }))
+  .pipe(gulp.dest('css'))
+  .pipe(minifycss())
+  .pipe(gulp.dest('css'));
 });
 
 // Imagemin
@@ -51,7 +63,7 @@ gulp.task('watch', function () {
 });
 
 // Default Task
-gulp.task('default', ['browserify', 'sass']);
+gulp.task('default', ['browserify', 'sass', 'n-sass']);
 
 // Deploy task
 gulp.task('deploy', function () {
