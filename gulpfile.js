@@ -20,7 +20,7 @@ gulp.task('browserify', function () {
   return gulp.src(['src/js/main.js'])
     .pipe(browserified)
     .pipe(uglify())
-    .pipe(gulp.dest('js'));
+    .pipe(gulp.dest('_includes/assets/js'));
 });
 
 // Sass Task
@@ -30,9 +30,9 @@ gulp.task('sass', function () {
       style: 'expanded',
       includePaths: neat
     }))
-    .pipe(gulp.dest('css'))
+    .pipe(gulp.dest('_includes/assets/css'))
     .pipe(minifycss())
-    .pipe(gulp.dest('css'));
+    .pipe(gulp.dest('_includes/assets/css'));
 });
 
 // Imagemin
