@@ -48,6 +48,7 @@ The little bit of JavaScript and almost all stylesheet are inlined which means l
 Also, I "borrowed" the syntax highlight styles from <a href="http://aerotwist.com/" target="_blank">Paul</a>. Thanks Paul! It's awesome!
 
 Here's a sneak peak:
+</div>
 
 {% highlight javascript %}
 var fluidvids = require('fluidvids.js/dist/fluidvids')();
@@ -64,6 +65,7 @@ module.exports = {
 };
 {% endhighlight %}
 
+<div class="wrapper" markdown="1">
 Neat, uh?
 
 And that's all! The code is on my GitHub => `AgtLucas/the-legacy`.
