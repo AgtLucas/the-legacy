@@ -6,9 +6,32 @@
 </description>
     <link>http://lucas.ninja/</link>
     <atom:link href="http://lucas.ninja/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 02 Feb 2015 22:36:34 -0200</pubDate>
-    <lastBuildDate>Mon, 02 Feb 2015 22:36:34 -0200</lastBuildDate>
+    <pubDate>Tue, 03 Feb 2015 20:40:57 -0200</pubDate>
+    <lastBuildDate>Tue, 03 Feb 2015 20:40:57 -0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Picture of the Day</title>
+        <description>&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;Hey,&lt;/p&gt;
+
+  &lt;p&gt;I took this picture today:&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/sky.jpg&quot; alt=&quot;Sky, Blue Sky!&quot; title=&quot;Sky, Blue Sky!&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;:)&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 03 Feb 2015 05:29:00 -0200</pubDate>
+        <link>http://lucas.ninja/blog/2015/02/03/picture-of-the-day.html</link>
+        <guid isPermaLink="true">http://lucas.ninja/blog/2015/02/03/picture-of-the-day.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>A Brave New World, In a Brave New World!</title>
@@ -510,44 +533,6 @@ The Community Edition is installable software that you can use on-premise.&lt;/p
         <pubDate>Fri, 18 Apr 2014 05:00:00 -0300</pubDate>
         <link>http://lucas.ninja/blog/2014/04/18/gitlab.html</link>
         <guid isPermaLink="true">http://lucas.ninja/blog/2014/04/18/gitlab.html</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>1/4 Year review</title>
-        <description>&lt;div class=&quot;wrapper&quot;&gt;
-  &lt;p&gt;It’s almost april, and today I was thinking in how my year is going, so far. So, this is a little review of 1/4 of my year.&lt;/p&gt;
-
-  &lt;p&gt;To get start, the lessons I’ve learned:&lt;/p&gt;
-
-  &lt;h3 id=&quot;lessons-learned&quot;&gt;Lessons learned&lt;/h3&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;Open dialog is the way to go&lt;/li&gt;
-    &lt;li&gt;The truth is hard, but is the better choice&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;http://agtlucas.com/blog/2014/03/01/mission-failed.html&quot;&gt;One blog post per day it’s extremely hard!&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;You can’t make the difference until you make the difference for yourself&lt;/li&gt;
-    &lt;li&gt;Don’t fear the fail, fear the same&lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;p&gt;This 5 lessons has made my year so far.&lt;/p&gt;
-
-  &lt;p&gt;For the next 2/4, I ~~wanna~~ will achieve:&lt;/p&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;Migrate this site to Ghost (in progress, 70% done)&lt;/li&gt;
-    &lt;li&gt;Start my own business&lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;p&gt;That’s it!&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 29 Mar 2014 05:00:00 -0300</pubDate>
-        <link>http://lucas.ninja/blog/2014/03/29/year-review-so-far-1-4.html</link>
-        <guid isPermaLink="true">http://lucas.ninja/blog/2014/03/29/year-review-so-far-1-4.html</guid>
         
         
         <category>blog</category>
