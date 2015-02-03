@@ -6,7 +6,4 @@ _site
 
 node_modules
 
-css/
-js/
-
 npm-debug.log
