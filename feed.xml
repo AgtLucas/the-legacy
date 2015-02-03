@@ -6,9 +6,87 @@
 </description>
     <link>http://lucas.ninja/</link>
     <atom:link href="http://lucas.ninja/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 02 Feb 2015 10:00:26 -0200</pubDate>
-    <lastBuildDate>Mon, 02 Feb 2015 10:00:26 -0200</lastBuildDate>
+    <pubDate>Mon, 02 Feb 2015 22:36:34 -0200</pubDate>
+    <lastBuildDate>Mon, 02 Feb 2015 22:36:34 -0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>A Brave New World, In a Brave New World!</title>
+        <description>&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;Howdy, folks!&lt;/p&gt;
+
+  &lt;p&gt;Here I am, back in this blog! Actually this is another domain, &lt;code&gt;lucas.ninja&lt;/code&gt; instead of &lt;code&gt;agtlucas.com&lt;/code&gt;, but it’s the same blog, so, this post is for explain this changes and what will come next…&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/mountains.jpg&quot; alt=&quot;Brave New World! Brave New Mountains!&quot; title=&quot;Brave New World! Brave New Mountains!&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;As you can see, this is a new layout, much more simpler than the old one, and faster, much faster! #perfmatters! More this later.&lt;/p&gt;
+
+  &lt;h2 id=&quot;why-this-changes&quot;&gt;Why this changes?&lt;/h2&gt;
+
+  &lt;p&gt;Good question, I don’t know! Yeah, I think that this whole changes it’s because I like to build and break things, and you know what, this is a good thing, break and build things is awesome, we can learn a lot.&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;“As we cannot be universal by knowing everything there is to know about everything, we must know a little about everything, because it is much better to know something about everything than everything about something. Such universality is the finest.” - Blaise Pascal&lt;/p&gt;
+  &lt;/blockquote&gt;
+
+  &lt;h2 id=&quot;why-lucasninja-and-no-more-agtlucascom&quot;&gt;Why lucas.ninja and no more agtlucas.com?&lt;/h2&gt;
+
+  &lt;p&gt;I think &lt;code&gt;lucas.ninja&lt;/code&gt; is way more cool. :)&lt;/p&gt;
+
+  &lt;h2 id=&quot;what-comes-next&quot;&gt;What comes next?&lt;/h2&gt;
+
+  &lt;p&gt;This year (2015) I’m working in some really awesome projects, and as I’m learning Swift, I’ll try to post some stuff about this language, I can’t promise that, but I’ll try.&lt;/p&gt;
+
+  &lt;p&gt;Talking about language, I intend to post more technical stuff, like JavaScript, RWD, Web Accessibility (Can I include A11Y as technical?). Also, I wanna talk about Sales and SaaS, two subjects that I’ve been studying these last days.&lt;/p&gt;
+
+  &lt;h2 id=&quot;challenges&quot;&gt;Challenges&lt;/h2&gt;
+
+  &lt;p&gt;This is my last year in college and I hope that everything gonna end well. I still need to figure out what kind of project I’ll do to my “TCC”, I have some ideas but I’m not quite sure yet…&lt;/p&gt;
+
+  &lt;p&gt;Anyway, but this is gonna be awesome, that’s for sure!&lt;/p&gt;
+
+  &lt;h2 id=&quot;a-little-about-this-new-layout&quot;&gt;A little about this new layout&lt;/h2&gt;
+
+  &lt;p&gt;So, this blog’s still powered by Jekyll, but I’m using &lt;a href=&quot;https://www.cloudflare.com/&quot; target=&quot;_blank&quot;&gt;CloudFlare&lt;/a&gt; for CDN and SSL. The free tier is pretty rad!&lt;/p&gt;
+
+  &lt;p&gt;The little bit of JavaScript and almost all stylesheet are inlined which means less requisition, more performance. Sorta.&lt;/p&gt;
+
+  &lt;p&gt;Also, I “borrowed” the syntax highlight styles from &lt;a href=&quot;http://aerotwist.com/&quot; target=&quot;_blank&quot;&gt;Paul&lt;/a&gt;. Thanks Paul! It’s awesome!&lt;/p&gt;
+
+  &lt;p&gt;Here’s a sneak peak:&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-javascript&quot; data-lang=&quot;javascript&quot;&gt;&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;fluidvids&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;fluidvids.js/dist/fluidvids&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)();&lt;/span&gt;
+
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;rwdVideos&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;fluidvids&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;init&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;selector&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;iframe&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;object&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;players&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;www.youtube.com&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;&amp;#39;player.vimeo.com&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+
+&lt;span class=&quot;nx&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;exports&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;rwdVideos&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;rwdVideos&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;Neat, uh?&lt;/p&gt;
+
+  &lt;p&gt;And that’s all! The code is on my GitHub =&amp;gt; &lt;code&gt;AgtLucas/the-legacy&lt;/code&gt;.&lt;/p&gt;
+
+  &lt;p&gt;Wanna comment something about this post? Ping me on &lt;a href=&quot;http://twitter.com/_agtlucas&quot; target=&quot;_blank&quot;&gt;Twitter&lt;/a&gt;!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 02 Feb 2015 07:29:00 -0200</pubDate>
+        <link>http://lucas.ninja/blog/2015/02/02/a-brave-new-world-in-a-brave-new-world.html</link>
+        <guid isPermaLink="true">http://lucas.ninja/blog/2015/02/02/a-brave-new-world-in-a-brave-new-world.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>2014</title>
@@ -470,21 +548,6 @@ The Community Edition is installable software that you can use on-premise.&lt;/p
         <pubDate>Sat, 29 Mar 2014 05:00:00 -0300</pubDate>
         <link>http://lucas.ninja/blog/2014/03/29/year-review-so-far-1-4.html</link>
         <guid isPermaLink="true">http://lucas.ninja/blog/2014/03/29/year-review-so-far-1-4.html</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Moving forward</title>
-        <description>&lt;div class=&quot;wrapper&quot;&gt;
-  &lt;p&gt;&lt;img src=&quot;/img/just-a-quote.jpg&quot; alt=&quot;If you want something you&#39;ve never had, then you&#39;ve got to do something you&#39;ve never done.&quot; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 22 Mar 2014 07:30:00 -0300</pubDate>
-        <link>http://lucas.ninja/blog/2014/03/22/moving-forward.html</link>
-        <guid isPermaLink="true">http://lucas.ninja/blog/2014/03/22/moving-forward.html</guid>
         
         
         <category>blog</category>
