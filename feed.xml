@@ -6,9 +6,32 @@
 </description>
     <link>http://lucas.ninja/</link>
     <atom:link href="http://lucas.ninja/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 04 Feb 2015 22:57:35 -0200</pubDate>
-    <lastBuildDate>Wed, 04 Feb 2015 22:57:35 -0200</lastBuildDate>
+    <pubDate>Thu, 05 Feb 2015 21:45:32 -0200</pubDate>
+    <lastBuildDate>Thu, 05 Feb 2015 21:45:32 -0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Cloudy Days</title>
+        <description>&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;Yo folks!&lt;/p&gt;
+
+  &lt;p&gt;Today was a beauty cloudy day!&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/acerola-leaves.jpg&quot; alt=&quot;Acerola leaves&quot; title=&quot;Acerola leaves&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;;)&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 05 Feb 2015 05:50:00 -0200</pubDate>
+        <link>http://lucas.ninja/blog/2015/02/05/cloudy-days.html</link>
+        <guid isPermaLink="true">http://lucas.ninja/blog/2015/02/05/cloudy-days.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Picture of the Day</title>
@@ -485,54 +508,6 @@
         <pubDate>Tue, 29 Apr 2014 05:00:00 -0300</pubDate>
         <link>http://lucas.ninja/blog/2014/04/29/move-on.html</link>
         <guid isPermaLink="true">http://lucas.ninja/blog/2014/04/29/move-on.html</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>GitLab</title>
-        <description>&lt;div class=&quot;wrapper&quot;&gt;
-  &lt;p&gt;Hello everybody, a long time since my last post, so let’s keep things straightforward.&lt;/p&gt;
-
-  &lt;p&gt;This week, I had the opportunity to play a little with GitLab.&lt;/p&gt;
-
-  &lt;p&gt;&lt;img src=&quot;/img/gitlab.png&quot; alt=&quot;GitLab&quot; /&gt;&lt;/p&gt;
-
-  &lt;p&gt;So, what is GitLab? From the &lt;a href=&quot;http://www.gitlab.com&quot; target=&quot;_blank&quot;&gt;GitLab site&lt;/a&gt;:&lt;/p&gt;
-
-  &lt;blockquote&gt;
-    &lt;p&gt;GitLab offers git repository management, code reviews, issue tracking, activity feeds and wiki’s. Enterprises install GitLab on-premise and connect it with LDAP and Active Directory servers for secure authentication and authorization. A single GitLab server can handle more than 25,000 users but it is also possible to create a high availability setup with a multiple active servers.&lt;/p&gt;
-  &lt;/blockquote&gt;
-
-  &lt;p&gt;In my case, I’m using GitLab Community Edition (CE):&lt;/p&gt;
-
-  &lt;blockquote&gt;
-    &lt;p&gt;GitLab Community Edition (CE) is open source software to collaborate on code.
-Create projects and repositories, manage access and do code reviews.
-The Community Edition is installable software that you can use on-premise.&lt;/p&gt;
-  &lt;/blockquote&gt;
-
-  &lt;p&gt;I installed GitLab on a &lt;a href=&quot;https://www.digitalocean.com/?refcode=c7f065a7eded&quot; target=&quot;_blank&quot;&gt;DigitalOcean&lt;/a&gt; server. I’m using a server with 512Mb of memory and it’s running blaze fast. Yep, the GitLab’s documentation recommends at least 1Gb of memory, but just for me play around, 512Mb is sufficient.&lt;/p&gt;
-
-  &lt;p&gt;GitLab is really cool, works almost like GitHub, even your look and feel is similar. Things like issues, pull requests, snippets (gist), branch compare are awesome.&lt;/p&gt;
-
-  &lt;p&gt;Even more awesome is the Merge Request! Yep, you can request a branch merge.&lt;/p&gt;
-
-  &lt;p&gt;If you’d like to install a git management tool, you definitely should give GitLab a shoot!&lt;/p&gt;
-
-  &lt;h3 id=&quot;further-reading&quot;&gt;Further Reading&lt;/h3&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&quot;https://gitlab.com/gitlab-org/gitlab-ce/blob/master/doc/install/requirements.md&quot; target=&quot;_blank&quot;&gt;GitLab Requirements&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;https://github.com/gitlabhq/gitlabhq/blob/master/doc/install/installation.md&quot; target=&quot;_target&quot;&gt;Installation Guide&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Fri, 18 Apr 2014 05:00:00 -0300</pubDate>
-        <link>http://lucas.ninja/blog/2014/04/18/gitlab.html</link>
-        <guid isPermaLink="true">http://lucas.ninja/blog/2014/04/18/gitlab.html</guid>
         
         
         <category>blog</category>
