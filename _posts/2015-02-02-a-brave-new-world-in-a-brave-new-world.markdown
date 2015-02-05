@@ -17,7 +17,7 @@ Here I am, back in this blog! Actually this is another domain, `lucas.ninja` ins
 <div class="wrapper" markdown="1">
 As you can see, this is a new layout, much more simpler than the old one, and faster, much faster! #perfmatters! More this later.
 
-## Why this changes?
+## Why these changes?
 
 Good question, I don't know! Yeah, I think that this whole changes it's because I like to build and break things, and you know what, this is a good thing, break and build things is awesome, we can learn a lot.
 
