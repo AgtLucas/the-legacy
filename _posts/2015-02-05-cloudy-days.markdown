@@ -7,13 +7,13 @@ description: ...are the best days
 ---
 
 <div class="wrapper" markdown="1">
-Hey,
+Yo folks!
 
-I took this picture today:
+Today was a beauty cloudy day!
 </div>
 
-<img src="/img/sky.jpg" alt="Sky, Blue Sky!" title="Sky, Blue Sky!" />
+<img src="/img/acerola-leaves.jpg" alt="Acerola leaves" title="Acerola leaves" />
 
 <div class="wrapper" markdown="1">
-:)
+;)
 </div>
