@@ -61,6 +61,7 @@ img {
 
 a {
   color: inherit;
+  @include transition(all .2s ease-in-out);
 }
 
 ul {
