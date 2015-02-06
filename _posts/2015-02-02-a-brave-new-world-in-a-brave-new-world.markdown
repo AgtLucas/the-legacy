@@ -70,5 +70,5 @@ Neat, uh?
 
 And that's all! The code is on my GitHub => `AgtLucas/the-legacy`.
 
-Wanna comment something about this post? Ping me on <a href="http://twitter.com/_agtlucas" target="_blank">Twitter</a>!
+Wanna comment something about this post? Ping me on <a href="http://twitter.com/_agtlucas" title="Twitter @_agtlucas" target="_blank">Twitter</a>!
 </div>
