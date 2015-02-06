@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2014"
+title: "2014 - A year in review"
 date: 2014-12-31 08:00:00
 categories: blog
 description: A year full of surprises
