@@ -1,3 +1,3 @@
 <header class="site-header" role="banner">
-  <a href="{% if page.url == '/blog/index.html' %}/{% else %}/blog{% endif %}" title="Go back to {% if page.url == '/blog/index.html' %}Home{% else %}Blog{% endif %}" aria-label="Go back to {% if page.url == '/blog/index.html' %}Home{% else %}Blog{% endif %}" class="site-logo">{% include ninja.html %}</a>
+  <a href="{% if page.url == '/blog/index.html' %}/{% else %}/blog{% endif %}" title="Go back to {% if page.url == '/blog/index.html' %}Home{% else %}Blog{% endif %}" aria-label="Go back to {% if page.url == '/blog/index.html' %}Home{% else %}Blog{% endif %}" class="site-logo"><span class="site-logo__text" aria-hidden="true">Go back to {% if page.url == '/blog/index.html' %}Home{% else %}Blog{% endif %}</span>{% include ninja.html %}</a>
 </header>

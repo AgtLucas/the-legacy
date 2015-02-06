@@ -3,6 +3,11 @@
   @include clearfix();
 }
 
+.site-logo__text {
+  display: none;
+  visibility: hidden;
+}
+
 .ninja {
   @include media($mobile) {
     display: block;
