@@ -45,7 +45,7 @@ So, this blog's still powered by Jekyll, but I'm using <a href="https://www.clou
 
 The little bit of JavaScript and almost all stylesheet are inlined which means less requisition, more performance. Sorta.
 
-Also, I "borrowed" the syntax highlight styles from <a href="http://aerotwist.com/" target="_blank">Paul</a>. Thanks Paul! It's awesome!
+Also, I "borrowed" the syntax highlight styles from <a href="http://aerotwist.com/" target="_blank" title="Paul at aerotwist.com">Paul</a>. Thanks Paul! It's awesome!
 
 Here's a sneak peak:
 </div>
