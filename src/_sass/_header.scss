@@ -24,6 +24,9 @@
     left: 0;
     z-index: 2;
     display: block;
+    &:hover {
+      @include transform(scale(0.9) rotate(-3deg));
+    }
   }
 }
 
