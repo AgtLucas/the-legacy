@@ -41,7 +41,7 @@ Anyway, but this is gonna be awesome, that's for sure!
 
 ## A little about this new layout
 
-So, this blog's still powered by Jekyll, but I'm using <a href="https://www.cloudflare.com/" target="_blank">CloudFlare</a> for CDN and SSL. The free tier is pretty rad!
+So, this blog's still powered by Jekyll, but I'm using <a href="https://www.cloudflare.com/" title="CloudFlare.com" target="_blank">CloudFlare</a> for CDN and SSL. The free tier is pretty rad!
 
 The little bit of JavaScript and almost all stylesheet are inlined which means less requisition, more performance. Sorta.
 
