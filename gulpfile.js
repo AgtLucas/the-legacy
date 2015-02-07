@@ -49,7 +49,7 @@ gulp.task('n-sass', function () {
 
 // Imagemin
 gulp.task('imagemin', function () {
-  gulp.src('src/_img/*')
+  gulp.src('img/*')
     .pipe(imagemin({
       progressive: true,
       use: [pngquant()]
