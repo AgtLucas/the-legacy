@@ -7,7 +7,9 @@ description: How to use Swift + Cocoapods
 ---
 
 <div class="wrapper" markdown="1">
+Yo!
 
+So, in the later days I've been digging into Swift, yeah, the Apple language for iOS and OS X, it's rad!
 </div>
 
 
