@@ -6,9 +6,53 @@
 </description>
     <link>http://lucas.ninja/</link>
     <atom:link href="http://lucas.ninja/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 12 Feb 2015 21:56:37 -0200</pubDate>
-    <lastBuildDate>Thu, 12 Feb 2015 21:56:37 -0200</lastBuildDate>
+    <pubDate>Thu, 19 Feb 2015 11:30:40 -0200</pubDate>
+    <lastBuildDate>Thu, 19 Feb 2015 11:30:40 -0200</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Swift + Cocoapods</title>
+        <description>&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;Yo!&lt;/p&gt;
+
+  &lt;p&gt;So, in the later days I’ve been digging into Swift, yeah, the Apple language for iOS and OS X, it’s rad!&lt;/p&gt;
+
+  &lt;p&gt;But one of the things that I got stuck was how to use &lt;a href=&quot;http://cocoapods.org/&quot; target=&quot;_blank&quot;&gt;Cocoapods&lt;/a&gt; with Swift, ‘cause we can’t just &lt;code&gt;#import &amp;lt;things/things.h&amp;gt;&lt;/code&gt; in our &lt;code&gt;.swift&lt;/code&gt; files.&lt;/p&gt;
+
+  &lt;p&gt;First of all, if you install the beta version of cocoapods, you can simply import your &lt;code&gt;pods&lt;/code&gt; with Swift syntax.&lt;/p&gt;
+
+  &lt;p&gt;But, if you’re using the stable version of the cocoapods, you must create a “bridge” (a header file), we can do that by simply creating an Objective-C &lt;code&gt;Cocoa Touch Class&lt;/code&gt;:&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/img/cocoa-touch.png&quot; alt=&quot;Creating a Objective-C Cocoa Touch Class&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;Name this file with whatever you want and hit next, select the folder of your app and click create, when you click create, the following popup will appear:&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/img/save.png&quot; alt=&quot;Popup, wow!&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;Just click yes and we’re done, now you can delete the Cocoa Touch Class file that you just create!&lt;/p&gt;
+
+  &lt;p&gt;Now you’re ready to import your &lt;code&gt;pods&lt;/code&gt; in the header file, like so:&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-objective-c&quot; data-lang=&quot;objective-c&quot;&gt;&lt;span class=&quot;c1&quot;&gt;//&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;//  Use this file to import your target&amp;#39;s public headers that you would like to expose to Swift.&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;//&lt;/span&gt;
+
+&lt;span class=&quot;cp&quot;&gt;#import &amp;lt;FlatUIKit/UIColor+FlatUI.h&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;cp&quot;&gt;#import &amp;lt;MKUnits/MKUnits.h&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;That’s it!&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 19 Feb 2015 05:50:00 -0200</pubDate>
+        <link>http://lucas.ninja/blog/2015/02/19/swift-cocoapods.html</link>
+        <guid isPermaLink="true">http://lucas.ninja/blog/2015/02/19/swift-cocoapods.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Cloudy Days</title>
@@ -489,25 +533,6 @@
         <pubDate>Sat, 17 May 2014 05:00:00 -0300</pubDate>
         <link>http://lucas.ninja/blog/2014/05/17/23-and-counting.html</link>
         <guid isPermaLink="true">http://lucas.ninja/blog/2014/05/17/23-and-counting.html</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Move on</title>
-        <description>&lt;div class=&quot;wrapper&quot;&gt;
-  &lt;p&gt;Well, here I’m again.&lt;/p&gt;
-
-  &lt;p&gt;Lesson learned this month. Never ever stay living in the past. Just &lt;em&gt;move on&lt;/em&gt;.&lt;/p&gt;
-
-  &lt;p&gt;I’m coming back.&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 29 Apr 2014 05:00:00 -0300</pubDate>
-        <link>http://lucas.ninja/blog/2014/04/29/move-on.html</link>
-        <guid isPermaLink="true">http://lucas.ninja/blog/2014/04/29/move-on.html</guid>
         
         
         <category>blog</category>
