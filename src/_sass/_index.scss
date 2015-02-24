@@ -8,22 +8,6 @@
   text-align: center;
 }
 
-.lucas {
-  border-radius: 100%;
-
-  @include media($mobile) {
-    width: em(100);
-  }
-
-  @include media($tablet) {
-    width: em(150);
-  }
-
-  @include media($desktop-x) {
-    width: em(200);
-  }
-}
-
 .hello-world__text {
 
   @include media($mobile) {
