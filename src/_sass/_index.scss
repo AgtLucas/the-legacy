@@ -1,5 +1,16 @@
 // Index
 
+.ortth {
+  width: em(100);
+  height: em(100);
+  @include transition(all .2s ease-in-out);
+  &:hover {
+    * {
+      fill: $aw;
+    }
+  }
+}
+
 .hello-world {
   position: absolute;
   top: 50%;
