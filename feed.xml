@@ -6,9 +6,32 @@
 </description>
     <link>http://lucas.ninja/</link>
     <atom:link href="http://lucas.ninja/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 03 Mar 2015 08:56:48 -0300</pubDate>
-    <lastBuildDate>Tue, 03 Mar 2015 08:56:48 -0300</lastBuildDate>
+    <pubDate>Wed, 11 Mar 2015 08:57:03 -0300</pubDate>
+    <lastBuildDate>Wed, 11 Mar 2015 08:57:03 -0300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Workflow 2015</title>
+        <description>&lt;div class=&quot;wrapper&quot;&gt;
+  &lt;p&gt;Since the last year, I switched some apps that I used to use a lot, to other apps that now I’ve been using a lot.&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;From Sublime Text to Atom;&lt;/li&gt;
+    &lt;li&gt;From Photoshop to Sketch;&lt;/li&gt;
+    &lt;li&gt;From Skype to Wire;&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;:)&lt;/p&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 11 Mar 2015 04:50:00 -0300</pubDate>
+        <link>http://lucas.ninja/blog/2015/03/11/workflow-2015.html</link>
+        <guid isPermaLink="true">http://lucas.ninja/blog/2015/03/11/workflow-2015.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>If - by Rudyard Kipling</title>
@@ -536,43 +559,6 @@ And—which is more—you’ll be a Man, my son.&lt;/p&gt;
         <pubDate>Tue, 01 Jul 2014 05:00:00 -0300</pubDate>
         <link>http://lucas.ninja/blog/2014/07/01/a-month.html</link>
         <guid isPermaLink="true">http://lucas.ninja/blog/2014/07/01/a-month.html</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Farewell</title>
-        <description>&lt;div class=&quot;wrapper&quot;&gt;
-  &lt;p&gt;Today is the day that mark the end of a journey. I quit my job after 1 year and 10 months.&lt;/p&gt;
-
-  &lt;h3 id=&quot;the-beginning&quot;&gt;The beginning&lt;/h3&gt;
-
-  &lt;p&gt;Everything started with a talk, a &lt;a href=&quot;https://github.com/alessandrostein&quot; target=&quot;_blank&quot;&gt;friend&lt;/a&gt; tell me about a position at &lt;a href=&quot;http://www.milagro.ag/&quot; target=&quot;_blank&quot;&gt;Agência Milagro&lt;/a&gt;, I was unemployed and I thought, why not?&lt;/p&gt;
-
-  &lt;p&gt;So, at night I sent an email to another &lt;a href=&quot;https://github.com/grazigrossklags&quot; target=&quot;_blank&quot;&gt;friend, (who was doing internship there), asking few question about the position and then, I sent my résumé to her and she&lt;/a&gt; indicated me to position.&lt;/p&gt;
-
-  &lt;p&gt;A day later, I was hired, as intern.&lt;/p&gt;
-
-  &lt;h3 id=&quot;the-half&quot;&gt;The half&lt;/h3&gt;
-
-  &lt;p&gt;Working at Milagro was one of the best professional experience I ever had. I learned a lot, teached a lot, make new friends, met new people, visit other city… wow, it was a fantastic experience, for real.&lt;/p&gt;
-
-  &lt;h3 id=&quot;the-end&quot;&gt;The end&lt;/h3&gt;
-
-  &lt;p&gt;Yeah, nothing last forever. Some people call me crazy for leaving my job, and you know, I just don’t care! :)&lt;/p&gt;
-
-  &lt;p&gt;I do what I believe, and I believe in my dreams, so, for that reason I decided to quit my job and build my dreams. That’s it.&lt;/p&gt;
-
-  &lt;p&gt;Lastly, I just wanna say thank to everybody who I worked with there, and in special to, Alessandro, Graziele, Fábio Ronchi and Michel.&lt;/p&gt;
-
-  &lt;p&gt;Cya!&lt;/p&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Thu, 22 May 2014 18:00:00 -0300</pubDate>
-        <link>http://lucas.ninja/blog/2014/05/22/farewell.html</link>
-        <guid isPermaLink="true">http://lucas.ninja/blog/2014/05/22/farewell.html</guid>
         
         
         <category>blog</category>
