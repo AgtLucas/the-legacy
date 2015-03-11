@@ -35,8 +35,6 @@
     "lodash": "^2.4.1",
     "node-bourbon": "^4.2.1-beta1",
     "node-neat": "^1.7.1-beta1",
-    "normalize.css": "^3.0.2",
-    "react": "^0.12.0",
-    "reactify": "^0.15.2"
+    "normalize.css": "^3.0.2"
   }
 }
