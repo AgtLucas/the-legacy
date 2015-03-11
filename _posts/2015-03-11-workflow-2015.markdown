@@ -7,5 +7,12 @@ description: Apps that I've been using this year
 ---
 
 <div class="wrapper" markdown="1">
+Since the last year, I switched some apps that I used to use a lot, to other apps that now I've been using a lot.
 
+
+* From Sublime Text to Atom;
+* From Photoshop to Sketch;
+* From Skype to Wire;
+
+:)
 </div>
