@@ -6,9 +6,22 @@
 </description>
     <link>http://lucas.ninja/</link>
     <atom:link href="http://lucas.ninja/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 11 Mar 2015 08:57:03 -0300</pubDate>
-    <lastBuildDate>Wed, 11 Mar 2015 08:57:03 -0300</lastBuildDate>
+    <pubDate>Sun, 15 Mar 2015 13:50:49 -0300</pubDate>
+    <lastBuildDate>Sun, 15 Mar 2015 13:50:49 -0300</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>My first Haiku...</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/img/haiku-1.png&quot; alt=&quot;Into the darkness Of the longest night, The owl is singing&quot; title=&quot;Into the darkness Of the longest night, The owl is singing&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Mar 2015 22:30:00 -0300</pubDate>
+        <link>http://lucas.ninja/blog/2015/03/14/haiku.html</link>
+        <guid isPermaLink="true">http://lucas.ninja/blog/2015/03/14/haiku.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Workflow 2015</title>
@@ -533,32 +546,6 @@ And—which is more—you’ll be a Man, my son.&lt;/p&gt;
         <pubDate>Mon, 28 Jul 2014 05:00:00 -0300</pubDate>
         <link>http://lucas.ninja/blog/2014/07/28/year-review-so-far-2-4.html</link>
         <guid isPermaLink="true">http://lucas.ninja/blog/2014/07/28/year-review-so-far-2-4.html</guid>
-        
-        
-        <category>blog</category>
-        
-      </item>
-    
-      <item>
-        <title>A month...</title>
-        <description>&lt;div class=&quot;wrapper&quot;&gt;
-  &lt;p&gt;Well, June’s over yesterday and I didn’t post anything since then.&lt;/p&gt;
-
-  &lt;h3 id=&quot;but-why&quot;&gt;But Why?&lt;/h3&gt;
-
-  &lt;p&gt;May and June was two busy months, for real. I created the GDG Jaraguá do Sul and we did two events, in a gap between 25 days. It was a total blast. &lt;a href=&quot;http://agtlucas.com/blog/2014/05/22/farewell.html&quot;&gt;I quit my job&lt;/a&gt;, and I’ve started my own business: &lt;a href=&quot;http://awlka.com&quot; target=&quot;_blank&quot;&gt;AWLKA&lt;/a&gt;.&lt;/p&gt;
-
-  &lt;h3 id=&quot;whats-next&quot;&gt;What’s next?&lt;/h3&gt;
-
-  &lt;p&gt;A lot of new things will come really soon, stay tuned!&lt;/p&gt;
-
-  &lt;p&gt;Cya&lt;/p&gt;
-
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 01 Jul 2014 05:00:00 -0300</pubDate>
-        <link>http://lucas.ninja/blog/2014/07/01/a-month.html</link>
-        <guid isPermaLink="true">http://lucas.ninja/blog/2014/07/01/a-month.html</guid>
         
         
         <category>blog</category>
