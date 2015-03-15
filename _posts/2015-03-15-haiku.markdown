@@ -6,6 +6,4 @@ categories: blog
 description: ... I guess
 ---
 
-<div class="wrapper" markdown="1">
-
-</div>
+<img src="/img/haiku-1.png" alt="Into the darkness Of the longest night, The owl is singing" title="Into the darkness Of the longest night, The owl is singing" />
