@@ -1,3 +1,3 @@
-var rwdVideos = require('./components/videos/responsive-video');
+var rwdVideos = require('./components/videos/responsive-video')
 
-rwdVideos.rwdVideos();
+rwdVideos.rwdVideos()
